@@ -64,6 +64,18 @@ document.addEventListener('click', function (event) {
   }
 });
 
+// Dropdown student untuk mobile
+const studentBtn = document.getElementById("mobile-student-btn");
+const studentMenu = document.getElementById("mobile-student-menu");
+const studentIcon = document.getElementById("mobile-student-icon");
+
+if (studentBtn) {
+  studentBtn.addEventListener("click", () => {
+    studentMenu.classList.toggle("hidden");
+    studentIcon.classList.toggle("rotate-180"); // animasi panah
+  });
+}
+
 //Carousel
 document.addEventListener('DOMContentLoaded', () => {
   const slidesContainer = document.getElementById('slides-container');
@@ -111,3 +123,4 @@ document.addEventListener('DOMContentLoaded', () => {
   // Auto-play (optional)
   // setInterval(nextSlide, 5000);
 });
+

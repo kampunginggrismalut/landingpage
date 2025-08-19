@@ -12,6 +12,8 @@
     <meta name="google-site-verification" content="XXcb7c7400nnlGl_18P4lsaHA-jEVGwBmRCKD523Zj8" />
     <link rel="icon" type="image/png" sizes="512x512" href="landing_page/android-chrome-512x512.png">
     <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.2.1/flowbite.min.css" rel="stylesheet" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.2.1/flowbite.min.js"></script>
 
     <!-- Icons -->
     <script src="https://unpkg.com/feather-icons"></script>
@@ -42,6 +44,21 @@ s0.parentNode.insertBefore(s1,s0);
             <div class="hidden md:flex space-x-8 items-center">
                 <a href="#beranda" class="text-gray-600 hover:text-blue-500 transition">Beranda</a>
                 <a href="#program" class="text-gray-600 hover:text-blue-500 transition">Program</a>
+                <button id="dropdownHoverButton" data-dropdown-toggle="dropdownHover" data-dropdown-trigger="hover"
+                    class="text-gray-600 hover:text-blue-500 text-center inline-flex items-center" type="button">Student
+                </button>
+
+                <!-- Dropdown menu -->
+                <div id="dropdownHover"
+                    class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow-sm w-44 dark:bg-gray-700">
+                    <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="dropdownHoverButton">
+                        <li>
+                            <a href="https://lookerstudio.google.com/reporting/03715a8a-8f2a-4c02-a834-0e3b66645c29"
+                                class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Hasil
+                                Ujian</a>
+                        </li>
+                    </ul>
+                </div>
                 <a href="#visimisi" class="text-gray-600 hover:text-blue-500 transition">Visi Misi</a>
                 <a href="#galeri" class="text-gray-600 hover:text-blue-500 transition">Galeri</a>
                 <a href="#tentang_kami" class="text-gray-600 hover:text-blue-500 transition">Tentang Kami</a>
@@ -62,6 +79,22 @@ s0.parentNode.insertBefore(s1,s0);
             <div class="px-4 py-2 space-y-4">
                 <a href="#beranda" class="block text-gray-600 hover:text-blue-500">Beranda</a>
                 <a href="#program" class="block text-gray-600 hover:text-blue-500">Program</a>
+                <!-- Student Dropdown (Mobile) -->
+                <div>
+                    <button id="mobile-student-btn" class="w-full flex justify-between items-center text-gray-600 hover:text-blue-500">
+                        Student
+                        <svg class="w-4 h-4 ml-2 transition-transform" id="mobile-student-icon" xmlns="http://www.w3.org/2000/svg"
+                            fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                        </svg>
+                    </button>
+                    <div id="mobile-student-menu" class="hidden mt-2 ml-4 space-y-2">
+                        <a href="https://lookerstudio.google.com/reporting/03715a8a-8f2a-4c02-a834-0e3b66645c29"
+                            class="block text-gray-600 hover:text-blue-500">
+                            Hasil Ujian
+                        </a>
+                    </div>
+                </div>
                 <a href="#visimisi" class="block text-gray-600 hover:text-blue-500">Visi Misi</a>
                 <a href="#galeri" class="block text-gray-600 hover:text-blue-500">Galeri</a>
                 <a href="#tentang_kami" class="block text-gray-600 hover:text-blue-500">Tentang Kami</a>
@@ -354,3 +387,4 @@ s0.parentNode.insertBefore(s1,s0);
 </body>
 
 </html>
+

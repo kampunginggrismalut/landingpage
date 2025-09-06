@@ -7,7 +7,7 @@ let slidesContainer, prevBtn, nextBtn, dotsContainer;
 // Memuat data jadwal dari file JSON
 async function loadJadwalData() {
   try {
-    const response = await fetch('data/jadwal.json');
+    const response = await fetch('/landing_page/data/jadwal.json');
     jadwalKelas = await response.json();
     console.log('Data jadwal berhasil dimuat', jadwalKelas);
   } catch (error) {
@@ -146,9 +146,12 @@ function initializeJadwalLinks() {
 
 // Fungsi untuk menampilkan modal jadwal
 function showJadwalModal(kelas) {
+  console.log("Kelas diklik:", kelas);
+  console.log("Data dari JSON:", jadwalKelas[kelas]);
+
   const modal = document.getElementById('jadwal-modal');
   const modalTitle = document.getElementById('modal-title');
-  const scheduleContent = document.querySelector('#schedule-content > div');
+  const scheduleContent = document.getElementById('schedule-content');
 
   if (!modal || !modalTitle || !scheduleContent) {
     console.error('Elemen modal tidak ditemukan');

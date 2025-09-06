@@ -1,31 +1,37 @@
-feather.replace();
 
 // Mobile Menu Toggle
-document.getElementById('hamburger-menu').addEventListener('click', function () {
-  document.getElementById('mobile-menu').classList.toggle('hidden');
-});
+document.addEventListener('DOMContentLoaded', function () {
+  feather.replace();
 
-// Close mobile menu when clicking outside
-document.addEventListener('click', function (event) {
+  // Mobile menu
+  const hamburgerMenu = document.getElementById('hamburger-menu');
   const mobileMenu = document.getElementById('mobile-menu');
-  const hamburger = document.getElementById('hamburger-menu');
 
-  if (!hamburger.contains(event.target) && !mobileMenu.contains(event.target)) {
-    mobileMenu.classList.add('hidden');
+  hamburgerMenu.addEventListener('click', function () {
+    mobileMenu.classList.toggle('hidden');
+  });
+
+  // Student menu (mobile)
+  const mobileStudentBtn = document.getElementById('mobile-student-btn');
+  const mobileStudentMenu = document.getElementById('mobile-student-menu');
+  const mobileStudentIcon = document.getElementById('mobile-student-icon');
+
+  mobileStudentBtn.addEventListener('click', function () {
+    mobileStudentMenu.classList.toggle('hidden');
+    mobileStudentIcon.classList.toggle('rotate-180');
+  });
+
+  const mobileJadwalBtn = document.getElementById('mobile-jadwal-btn');
+  const mobileJadwalMenu = document.getElementById('mobile-jadwal-menu');
+  const mobileJadwalIcon = document.getElementById('mobile-jadwal-icon');
+
+  if (mobileJadwalBtn) {
+    mobileJadwalBtn.addEventListener('click', function () {
+      mobileJadwalMenu.classList.toggle('hidden');
+      mobileJadwalIcon.classList.toggle('rotate-180');
+    })
   }
 });
-
-// Dropdown student untuk mobile
-const studentBtn = document.getElementById("mobile-student-btn");
-const studentMenu = document.getElementById("mobile-student-menu");
-const studentIcon = document.getElementById("mobile-student-icon");
-
-if (studentBtn) {
-  studentBtn.addEventListener("click", () => {
-    studentMenu.classList.toggle("hidden");
-    studentIcon.classList.toggle("rotate-180"); // animasi panah
-  });
-}
 
 //Carousel
 document.addEventListener('DOMContentLoaded', () => {

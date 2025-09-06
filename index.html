@@ -46,56 +46,55 @@
                 <a href="#beranda" class="text-gray-600 hover:text-blue-500 transition">Beranda</a>
                 <a href="#program" class="text-gray-600 hover:text-blue-500 transition">Program</a>
                 <!-- Student Dropdown -->
-                <div class="relative group">
-                    <button
-                        class="nav-link text-gray-600 hover:text-blue-500 text-center inline-flex items-center transition">Student
-                        <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"
-                            xmlns="http://www.w3.org/2000/svg">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7">
-                            </path>
-                        </svg>
-                    </button>
-                </div>
+                <button id="dropdownHoverButton" data-dropdown-toggle="dropdownHover" data-dropdown-trigger="hover"
+                    class="text-gray-600 hover:text-blue-500 text-center inline-flex items-center" type="button">Student
+                </button>
 
                 <!-- Dropdown menu -->
-                <div class="absolute hidden group-hover:block z-50 bg-white rounded-lg shadow-lg w-48 py-2 mt-2">
-                    <a href="https://lookerstudio.google.com/reporting/03715a8a-8f2a-4c02-a834-0e3b66645c29"
-                        class="dropdown-item block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600">Hasil
-                        Ujian</a>
-
-                    <!-- Sub menu jadwal kelas -->
-                    <div class="dropdown-submenu">
-                        <a href="https://lookerstudio.google.com/reporting/bbaa341c-6120-4206-9497-35f5b56fb1fc"
-                            class="dropdown-item has-submenu block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600">Jadwal
-                            Kelas</a>
-                        <div class="dropdown-submenu-content">
-                            <a href="#"
-                                class="dropdown-item block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600">Kelas
-                                SD</a>
-                            <a href="#"
-                                class="dropdown-item block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600">Kelas
-                                Y</a>
-                            <a href="#"
-                                class="dropdown-item block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600">Kelas
-                                Z</a>
-                            <a href="#"
-                                class="dropdown-item block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600">SFZ-A</a>
-                            <a href="#"
-                                class="dropdown-item block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600">NW
-                                - 8</a>
-                            <a href="#"
-                                class="dropdown-item block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600">NW
-                                - 9</a>
-                            <a href="#"
-                                class="dropdown-item block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600">FTA
-                                - 9</a>
-                            <a href="#"
-                                class="dropdown-item block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600">PI
-                                - 3</a>
-                        </div>
-                    </div>
-                    <a href="https://presensikimu.web.app"
-                        class="dropdown-item has-submenu block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600">Presensi</a>
+                <div id="dropdownHover"
+                    class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow-sm w-44 dark:bg-gray-700">
+                    <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="dropdownHoverButton">
+                        <li>
+                            <a href="https://lookerstudio.google.com/reporting/03715a8a-8f2a-4c02-a834-0e3b66645c29"
+                                class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Hasil
+                                Ujian</a>
+                        </li>
+                        <li>
+                            <!-- Sub menu jadwal kelas -->
+                            <div class="dropdown-submenu relative group">
+                                <a href="#"
+                                    class="dropdown-item has-submenu block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600">Jadwal
+                                    Kelas</a>
+                                <div
+                                    class="dropdown-submenu-content hidden group-hover:block absolute left-full top-0 mt-0 ml-0 bg-white shadow-lg rounded-lg w-44">
+                                    <a href="#"
+                                        class="block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600">Kelas
+                                        SD</a>
+                                    <a href="#"
+                                        class="block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600">Kelas
+                                        Y</a>
+                                    <a href="#"
+                                        class="block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600">Kelas
+                                        Z</a>
+                                    <a href="#"
+                                        class="block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600">SFZ-A</a>
+                                    <a href="#"
+                                        class="block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600">NW -
+                                        8</a>
+                                    <a href="#"
+                                        class="block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600">NW -
+                                        9</a>
+                                    <a href="#"
+                                        class="block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600">FTA -
+                                        9</a>
+                                    <a href="#"
+                                        class="block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600">PI -
+                                        3</a>
+                                </div>
+                            </div>
+                        </li>
+                        <a href="https://presensikimu.web.app"
+                            class="dropdown-item has-submenu block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600">Presensi</a>
                 </div>
                 <a href="#visimisi" class="text-gray-600 hover:text-blue-500 transition">Visi Misi</a>
                 <a href="#galeri" class="text-gray-600 hover:text-blue-500 transition">Galeri</a>
@@ -303,15 +302,6 @@
                             <p> 📍 Muara Mall</p>
                         </div>
                     </div>
-
-                    <!-- Slide 3 -->
-                    <!-- <div class="min-w-full relative">
-                        <img src="/image/c3.JPG" class="w-full h-96 object-cover" alt="Slide 3">
-                        <div class="absolute bottom-0 left-0 right-0 text-white p-4">
-                            <h3 class="text-2xl font-bold">Judul Slide 3</h3>
-                            <p>Deskripsi untuk slide ketiga</p>
-                        </div>
-                    </div> -->
                 </div>
 
                 <!-- Navigation Arrows -->
@@ -456,20 +446,7 @@
     <!-- Footer -->
     <footer class="bg-blue-500 text-white py-8">
         <div class="container mx-auto text-center">
-            <!-- <div class="flex justify-center space-x-6">
-                <a href="#" class="hover:text-blue-200 transition">
-                    <i class="bi bi-envelope text-xl"></i>
-                </a>
-                <a href="" class="hover:text-blue-200 transition">
-                    <i class="bi bi-instagram text-xl"></i>
-                </a>
-                <a href="#" class="hover:text-blue-200 transition">
-                    <i class="bi bi-tiktok text-xl"></i>
-                </a>
-                <a href="#" class="hover:text-blue-200 transition">
-                    <i class="bi bi-whatsapp text-xl"></i>
-                </a>
-            </div> -->
+
             <p class="text-sm">&copy; Copyright 2025 | Kampung Inggris Maluku Utara | Yayasan Noble Future Education</p>
         </div>
     </footer>

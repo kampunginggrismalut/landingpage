@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', function () {
     mobileJadwalBtn.addEventListener('click', function () {
       mobileJadwalMenu.classList.toggle('hidden');
       mobileJadwalIcon.classList.toggle('rotate-180');
-    })
+    });
   }
 });
 

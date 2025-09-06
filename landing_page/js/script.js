@@ -7,7 +7,7 @@ let slidesContainer, prevBtn, nextBtn, dotsContainer;
 // Memuat data jadwal dari file JSON
 async function loadJadwalData() {
   try {
-    const response = await fetch('/landing_page/data/jadwal.json');
+    const response = await fetch('landing_page/data/jadwal.json');
     jadwalKelas = await response.json();
     console.log('Data jadwal berhasil dimuat', jadwalKelas);
   } catch (error) {
@@ -277,4 +277,5 @@ document.addEventListener('DOMContentLoaded', async function () {
   initializeCarousel();
 
 });
+
 

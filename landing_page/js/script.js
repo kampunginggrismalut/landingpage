@@ -144,6 +144,66 @@ function initializeJadwalLinks() {
   });
 }
 
+async function loadClasslistTemplate() {
+  try {
+    const response = await fetch('schedule-classlist.html');
+    const template = await response.text();
+    const modalContainer = document.getElementById('jadwal-classlist-modal');
+
+    if (modalContainer) {
+      modalContainer.innerHTML = template;
+      console.log("✅ schedule-classlist.html berhasil dimuat");
+      initializeClassListPopup();
+    }
+  } catch (error) {
+    console.error('❌ Gagal memuat template popup daftar kelas:', error);
+  }
+}
+
+
+function initializeClassListPopup() {
+  const openBtns = [
+    document.getElementById('open-classlist'),
+    document.getElementById('open-classlist-mobile')
+  ];
+
+  const modalWrapper = document.querySelector('#jadwal-classlist-modal .modal-wrapper');
+  const closeBtn = document.getElementById('classlist-close-btn');
+
+  // buka popup dari tombol desktop + mobile
+  openBtns.forEach(btn => {
+    if (btn && modalWrapper) {
+      btn.addEventListener('click', (e) => {
+        e.preventDefault();
+        modalWrapper.classList.remove('hidden');
+      });
+    }
+  });
+
+  if (closeBtn && modalWrapper) {
+    closeBtn.addEventListener('click', () => {
+      modalWrapper.classList.add('hidden');
+    });
+  }
+
+  // Klik item kelas
+  document.querySelectorAll('.kelas-item').forEach(item => {
+    item.addEventListener('click', function (e) {
+      e.preventDefault();
+      const kelas = this.getAttribute('data-kelas');
+
+      // Tutup popup daftar kelas
+      modalWrapper.classList.add('hidden');
+
+      // Buka popup jadwal
+      showJadwalModal(kelas);
+    });
+  });
+}
+
+
+
+
 // Fungsi untuk menampilkan modal jadwal
 function showJadwalModal(kelas) {
   console.log("Kelas diklik:", kelas);
@@ -271,9 +331,9 @@ document.addEventListener('DOMContentLoaded', async function () {
   }
 
   await loadJadwalData();
-  await loadPopupTemplate();
+  await loadPopupTemplate();        // popup jadwal
+  await loadClasslistTemplate();    // popup daftar kelas
   initializeMobileMenu();
-  initializeJadwalLinks();
   initializeCarousel();
 
 });

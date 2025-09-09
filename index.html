@@ -60,70 +60,16 @@
                                 Ujian</a>
                         </li>
                         <li>
-                            <!-- Sub menu jadwal kelas -->
-                            <div class="dropdown-submenu relative group">
-                                <a href="#"
-                                    class="dropdown-item has-submenu block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600">Jadwal
-                                    Kelas</a>
-                                <div
-                                    class="dropdown-submenu-content hidden group-hover:block absolute left-full top-0 mt-0 ml-0 bg-white shadow-lg rounded-lg w-44">
-                                    <a href="#"
-                                        class="jadwal-kelas block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600"
-                                        data-kelas="Kelas SD">Kelas SD</a>
-
-                                    <a href="#"
-                                        class="jadwal-kelas block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600"
-                                        data-kelas="Kelas Vice">Kelas Vice</a>
-
-                                    <a href="#"
-                                        class="jadwal-kelas block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600"
-                                        data-kelas="Kelas Y">Kelas Y</a>
-
-                                    <a href="#"
-                                        class="jadwal-kelas block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600"
-                                        data-kelas="Kelas Z">Kelas Z</a>
-
-                                    <a href="#"
-                                        class="jadwal-kelas block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600"
-                                        data-kelas="SFZ A">SFZ-A</a>
-
-                                    <a href="#"
-                                        class="jadwal-kelas block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600"
-                                        data-kelas="SFZ B">SFZ-B</a>
-
-                                    <a href="#"
-                                        class="jadwal-kelas block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600"
-                                        data-kelas="NW 8">NW
-                                        - 8</a>
-
-                                    <a href="#"
-                                        class="jadwal-kelas block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600"
-                                        data-kelas="NW 9">NW
-                                        - 9</a>
-
-                                    <a href="#"
-                                        class="jadwal-kelas block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600"
-                                        data-kelas="NW 10">NW
-                                        - 10</a>
-
-                                    <a href="#"
-                                        class="jadwal-kelas block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600"
-                                        data-kelas="FTA 9">FTA - 9</a>
-
-                                    <a href="#"
-                                        class="jadwal-kelas block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600"
-                                        data-kelas="PI 2">PI
-                                        - 2</a>
-
-                                    <a href="#"
-                                        class="jadwal-kelas block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600"
-                                        data-kelas="PI 3">PI
-                                        - 3</a>
-                                </div>
-                            </div>
+                            <a href="#" id="open-classlist"
+                                class="dropdown-item block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600">
+                                Jadwal Kelas
+                            </a>
                         </li>
-                        <a href="https://presensikimu.web.app"
-                            class="dropdown-item has-submenu block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600">Presensi</a>
+                        <li>
+                            <a href="https://presensikimu.web.app"
+                                class="dropdown-item has-submenu block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600">Presensi</a>
+                        </li>
+                    </ul>
                 </div>
                 <a href="#visimisi" class="text-gray-600 hover:text-blue-500 transition">Visi Misi</a>
                 <a href="#galeri" class="text-gray-600 hover:text-blue-500 transition">Galeri</a>
@@ -160,46 +106,10 @@
                             class="block text-gray-600 hover:text-blue-500">
                             Hasil Ujian
                         </a>
-                        <!-- Sub menu jadwal kelas (mobile) -->
-                        <div>
-                            <button id="mobile-jadwal-btn"
-                                class="w-full flex justify-between items-center text-gray-600 hover:text-blue-500 py-2">Jadwal
-                                Kelas <svg class="w-4 h-4 ml-2 transition-transform" id="mobile-jadwal-icon"
-                                    xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
-                                    stroke="currentColor">
-                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                        d="M19 9l-7 7-7-7" />
-                                </svg>
-                            </button>
-                            <div id="mobile-jadwal-menu"
-                                class="hidden mt-2 ml-4 space-y-2 max-h-60 overflow-y-auto pr-2">>
-                                <a href="#" class="jadwal-kelas block text-gray-600 hover:text-blue-500 py-2"
-                                    data-kelas="Kelas SD">Kelas SD</a>
-                                <a href="#" class="jadwal-kelas block text-gray-600 hover:text-blue-500 py-2"
-                                    data-kelas="Kelas Vice">Kelas Vice</a>
-                                <a href="#" class="jadwal-kelas block text-gray-600 hover:text-blue-500 py-2"
-                                    data-kelas="Kelas Y">Kelas Y</a>
-                                <a href="#" class="jadwal-kelas block text-gray-600 hover:text-blue-500 py-2"
-                                    data-kelas="Kelas Z">Kelas Z</a>
-                                <a href="#" class="jadwal-kelas block text-gray-600 hover:text-blue-500 py-2"
-                                    data-kelas="SFZ A">SFZ - A</a>
-                                <a href="#" class="jadwal-kelas block text-gray-600 hover:text-blue-500 py-2"
-                                    data-kelas="SFZ B">SFZ - B</a>
-                                <a href="#" class="jadwal-kelas block text-gray-600 hover:text-blue-500 py-2"
-                                    data-kelas="NW 8">NW - 8</a>
-                                <a href="#" class="jadwal-kelas block text-gray-600 hover:text-blue-500 py-2"
-                                    data-kelas="NW 9">NW - 9</a>
-                                <a href="#" class="jadwal-kelas block text-gray-600 hover:text-blue-500 py-2"
-                                    data-kelas="NW 10">NW - 10</a>
-                                <a href="#" class="jadwal-kelas block text-gray-600 hover:text-blue-500 py-2"
-                                    data-kelas="FTA 9">FTA - 9</a>
-                                <a href="#" class="jadwal-kelas block text-gray-600 hover:text-blue-500 py-2"
-                                    data-kelas="PI 2">PI - 2</a>
-                                <a href="#" class="jadwal-kelas block text-gray-600 hover:text-blue-500 py-2"
-                                    data-kelas="PI 3">PI - 3</a>
-                            </div>
-                        </div>
-
+                        <button id="open-classlist-mobile"
+                            class="w-full flex justify-between items-center text-gray-600 hover:text-blue-500 py-2">
+                            Jadwal Kelas
+                        </button>
                         <a href="https://presensikimu.web.app" class="block text-gray-600 hover:text-blue-500">
                             Presensi
                         </a>
@@ -497,9 +407,13 @@
         </div>
     </footer>
 
+    <!-- Modal popup daftar kelas -->
+    <div id="jadwal-classlist-modal"></div>
+
     <!-- Modal popupp jadwal kelas -->
     <div id="jadwal-modal"
         class="fixed inset-0 bg-black bg-opacity-50 z-50 flex items-center justify-center p-4 hidden"></div>
+
     <script src="landing_page/js/script.js"></script>
 </body>
 

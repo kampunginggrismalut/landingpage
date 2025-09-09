@@ -60,30 +60,84 @@
                                 Ujian</a>
                         </li>
                         <li>
-                            <a href="#" id="open-classlist"
-                                class="dropdown-item has-submenu block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600">Jadwal
-                                Kelas</a>
-                        </li>
-                        <li>
-                            <a href="https://presensikimu.web.app"
-                                class="dropdown-item has-submenu block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600">Presensi</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-            <a href="#visimisi" class="text-gray-600 hover:text-blue-500 transition">Visi Misi</a>
-            <a href="#galeri" class="text-gray-600 hover:text-blue-500 transition">Galeri</a>
-            <a href="#tentang_kami" class="text-gray-600 hover:text-blue-500 transition">Tentang Kami</a>
-            <a href="https://sites.google.com/view/kimupendaftaran/home"
-                class="bg-blue-500 text-white px-6 py-2 rounded-full hover:bg-blue-600 transition">
-                Daftar Kelas
-            </a>
-        </div>
+                            <!-- Sub menu jadwal kelas -->
+                            <div class="dropdown-submenu relative group">
+                                <a href="#"
+                                    class="dropdown-item has-submenu block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600">Jadwal
+                                    Kelas</a>
+                                <div
+                                    class="dropdown-submenu-content hidden group-hover:block absolute left-full top-0 mt-0 ml-0 bg-white shadow-lg rounded-lg w-44">
+                                    <a href="#"
+                                        class="jadwal-kelas block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600"
+                                        data-kelas="Kelas SD">Kelas SD</a>
 
-        <!-- Mobile Menu Button -->
-        <button id="hamburger-menu" class="md:hidden text-gray-600">
-            <i data-feather="menu"></i>
-        </button>
+                                    <a href="#"
+                                        class="jadwal-kelas block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600"
+                                        data-kelas="Kelas Vice">Kelas Vice</a>
+
+                                    <a href="#"
+                                        class="jadwal-kelas block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600"
+                                        data-kelas="Kelas Y">Kelas Y</a>
+
+                                    <a href="#"
+                                        class="jadwal-kelas block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600"
+                                        data-kelas="Kelas Z">Kelas Z</a>
+
+                                    <a href="#"
+                                        class="jadwal-kelas block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600"
+                                        data-kelas="SFZ A">SFZ-A</a>
+
+                                    <a href="#"
+                                        class="jadwal-kelas block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600"
+                                        data-kelas="SFZ B">SFZ-B</a>
+
+                                    <a href="#"
+                                        class="jadwal-kelas block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600"
+                                        data-kelas="NW 8">NW
+                                        - 8</a>
+
+                                    <a href="#"
+                                        class="jadwal-kelas block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600"
+                                        data-kelas="NW 9">NW
+                                        - 9</a>
+
+                                    <a href="#"
+                                        class="jadwal-kelas block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600"
+                                        data-kelas="NW 10">NW
+                                        - 10</a>
+
+                                    <a href="#"
+                                        class="jadwal-kelas block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600"
+                                        data-kelas="FTA 9">FTA - 9</a>
+
+                                    <a href="#"
+                                        class="jadwal-kelas block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600"
+                                        data-kelas="PI 2">PI
+                                        - 2</a>
+
+                                    <a href="#"
+                                        class="jadwal-kelas block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600"
+                                        data-kelas="PI 3">PI
+                                        - 3</a>
+                                </div>
+                            </div>
+                        </li>
+                        <a href="https://presensikimu.web.app"
+                            class="dropdown-item has-submenu block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600">Presensi</a>
+                </div>
+                <a href="#visimisi" class="text-gray-600 hover:text-blue-500 transition">Visi Misi</a>
+                <a href="#galeri" class="text-gray-600 hover:text-blue-500 transition">Galeri</a>
+                <a href="#tentang_kami" class="text-gray-600 hover:text-blue-500 transition">Tentang Kami</a>
+                <a href="https://sites.google.com/view/kimupendaftaran/home"
+                    class="bg-blue-500 text-white px-6 py-2 rounded-full hover:bg-blue-600 transition">
+                    Daftar Kelas
+                </a>
+            </div>
+
+            <!-- Mobile Menu Button -->
+            <button id="hamburger-menu" class="md:hidden text-gray-600">
+                <i data-feather="menu"></i>
+            </button>
         </div>
 
         <!-- Mobile Menu -->
@@ -107,9 +161,44 @@
                             Hasil Ujian
                         </a>
                         <!-- Sub menu jadwal kelas (mobile) -->
-                        <button id="open-classlist"
-                            class="w-full flex justify-between items-center text-gray-600 hover:text-blue-500 py-2">Jadwal
-                            Kelas</button>
+                        <div>
+                            <button id="mobile-jadwal-btn"
+                                class="w-full flex justify-between items-center text-gray-600 hover:text-blue-500 py-2">Jadwal
+                                Kelas <svg class="w-4 h-4 ml-2 transition-transform" id="mobile-jadwal-icon"
+                                    xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
+                                    stroke="currentColor">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                        d="M19 9l-7 7-7-7" />
+                                </svg>
+                            </button>
+                            <div id="mobile-jadwal-menu" class="hidden mt-2 ml-4 space-y-2">
+                                <a href="#" class="jadwal-kelas block text-gray-600 hover:text-blue-500 py-2"
+                                    data-kelas="Kelas SD">Kelas SD</a>
+                                <a href="#" class="jadwal-kelas block text-gray-600 hover:text-blue-500 py-2"
+                                    data-kelas="Kelas Vice">Kelas Vice</a>
+                                <a href="#" class="jadwal-kelas block text-gray-600 hover:text-blue-500 py-2"
+                                    data-kelas="Kelas Y">Kelas Y</a>
+                                <a href="#" class="jadwal-kelas block text-gray-600 hover:text-blue-500 py-2"
+                                    data-kelas="Kelas Z">Kelas Z</a>
+                                <a href="#" class="jadwal-kelas block text-gray-600 hover:text-blue-500 py-2"
+                                    data-kelas="SFZ A">SFZ - A</a>
+                                <a href="#" class="jadwal-kelas block text-gray-600 hover:text-blue-500 py-2"
+                                    data-kelas="SFZ B">SFZ - B</a>
+                                <a href="#" class="jadwal-kelas block text-gray-600 hover:text-blue-500 py-2"
+                                    data-kelas="NW 8">NW - 8</a>
+                                <a href="#" class="jadwal-kelas block text-gray-600 hover:text-blue-500 py-2"
+                                    data-kelas="NW 9">NW - 9</a>
+                                <a href="#" class="jadwal-kelas block text-gray-600 hover:text-blue-500 py-2"
+                                    data-kelas="NW 10">NW - 10</a>
+                                <a href="#" class="jadwal-kelas block text-gray-600 hover:text-blue-500 py-2"
+                                    data-kelas="FTA 9">FTA - 9</a>
+                                <a href="#" class="jadwal-kelas block text-gray-600 hover:text-blue-500 py-2"
+                                    data-kelas="PI 2">PI - 2</a>
+                                <a href="#" class="jadwal-kelas block text-gray-600 hover:text-blue-500 py-2"
+                                    data-kelas="PI 3">PI - 3</a>
+                            </div>
+                        </div>
+
                         <a href="https://presensikimu.web.app" class="block text-gray-600 hover:text-blue-500">
                             Presensi
                         </a>

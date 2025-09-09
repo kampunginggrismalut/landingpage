@@ -14,7 +14,7 @@ async function loadJadwalData() {
     console.error('Gagal memuat data jadwal:', error);
   }
 }
-// ============================================================================================
+
 // Memuat template popup dari file HTML
 async function loadPopupTemplate() {
   try {
@@ -77,7 +77,7 @@ function initializeDesktopDropdown() {
     });
   }
 }
-// ============================================================================================
+
 // Mobile menu functionality
 function initializeMobileMenu() {
   // Toggle mobile menu
@@ -140,40 +140,6 @@ function initializeJadwalLinks() {
       if (mobileMenu) {
         mobileMenu.classList.add('hidden');
       }
-    });
-  });
-}
-
-// Function untuk buka pop up daftar kelas dari menu jadwal kelas
-function initializeClassListPopup() {
-  const openBtn = document.getElementById('open-classlist');
-  const modal = document.getElementById('jadwal-classlist-modal');
-  const closeBtn = document.getElementById('classlist-close-btn');
-
-  if (openBtn && modal) {
-    openBtn.addEventListener('click', (e) => {
-      e.preventDefault();
-      modal.classList.remove('hidden');
-    });
-  }
-
-  if (closeBtn) {
-    closeBtn.addEventListener('click', () => {
-      modal.classList.add('hidden');
-    });
-  }
-
-  // Klik item kelas di popup daftar kelas
-  document.querySelectorAll('.kelas-item').forEach(item => {
-    item.addEventListener('click', function (e) {
-      e.preventDefault();
-      const kelas = this.getAttribute('data-kelas');
-
-      // tutup popup daftar kelas
-      modal.classList.add('hidden');
-
-      // tampilkan popup jadwal sesuai kelass
-      showJadwalModal(kelas);
     });
   });
 }
@@ -307,8 +273,7 @@ document.addEventListener('DOMContentLoaded', async function () {
   await loadJadwalData();
   await loadPopupTemplate();
   initializeMobileMenu();
-  // initializeJadwalLinks();
-  initializeClassListPopup();
+  initializeJadwalLinks();
   initializeCarousel();
 
 });

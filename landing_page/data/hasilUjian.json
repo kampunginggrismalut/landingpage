@@ -1,0 +1,77 @@
+{
+    "NW 8": {
+        "Kode": "apahayo",
+        "Hasil": [
+            {
+                "Nama": "NURUL ANNISA",
+                "Nilai": 90,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "ARTALITA RASID",
+                "Nilai": 90,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "M. ZIAD LA INTA DJAJIRA",
+                "Nilai": 90,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "IRMA SURYANI",
+                "Nilai": 90,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "VIVI TRI PUTRI",
+                "Nilai": 90,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "JULIYANTO ISKANDAR ALAM",
+                "Nilai": 90,
+                "Keterangan": "LULUS"
+            }
+        ]
+    },
+    "PI 2": {
+        "Kode": "sayasiapa",
+        "Hasil": [
+            {
+                "Nama": "M. FATHURRAJIQ",
+                "Nilai": 97,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "PUTRI NURSHANTI",
+                "Nilai": 90,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "SITNA A. DJAE",
+                "Nilai": 90,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "IRIANA RUSDI",
+                "Nilai": 86,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "ISWAN ALBAR",
+                "Nilai": 80,
+                "Keterangan": "TIDAK LULUS"
+            },
+            {
+                "Nama": "NISYA ARTINA IRFAN",
+                "Nilai": 77,
+                "Keterangan": "TIDAK LULUS"
+            },
+            {
+                "Nama": "LILI SURANI",
+                "Nilai": 86,
+                "Keterangan": "LULUS"
+            }
+        ]
+    }
+}

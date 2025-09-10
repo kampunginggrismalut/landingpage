@@ -4,35 +4,36 @@
         "Hasil": [
             {
                 "Nama": "NURUL ANNISA",
-                "Nilai": 90,
-                "Keterangan": "LULUS"
+                "Nilai": 83.6,
+                "Keterangan": "TIDAK LULUS"
             },
             {
                 "Nama": "ARTALITA RASID",
-                "Nilai": 90,
-                "Keterangan": "LULUS"
+                "Nilai": 71,
+                "Keterangan": "TIDAK LULUS"
             },
             {
                 "Nama": "M. ZIAD LA INTA DJAJIRA",
-                "Nilai": 90,
+                "Nilai": 89.6,
                 "Keterangan": "LULUS"
             },
             {
                 "Nama": "IRMA SURYANI",
-                "Nilai": 90,
+                "Nilai": 85,
                 "Keterangan": "LULUS"
             },
             {
                 "Nama": "VIVI TRI PUTRI",
-                "Nilai": 90,
-                "Keterangan": "LULUS"
+                "Nilai": 70,
+                "Keterangan": "TIDAK LULUS"
             },
             {
                 "Nama": "JULIYANTO ISKANDAR ALAM",
-                "Nilai": 90,
+                "Nilai": 85,
                 "Keterangan": "LULUS"
             }
-        ]
+        ],
+        "PG": 85
     },
     "PI 2": {
         "Kode": "093594",
@@ -72,6 +73,7 @@
                 "Nilai": 86,
                 "Keterangan": "LULUS"
             }
-        ]
+        ],
+        "PG": 85
     }
 }

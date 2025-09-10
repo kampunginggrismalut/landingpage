@@ -10,7 +10,6 @@ document.addEventListener("DOMContentLoaded", async () => {
     const closeBtn = document.getElementById("closeModalBtn");
     const hasilContent = document.getElementById("hasilContent");
     const modalTitle = document.getElementById("modalTitle");
-    const passingGrade = document.getElementById("passingGrade");
 
     const data = await fetchHasilUjian();
 
@@ -27,8 +26,12 @@ document.addEventListener("DOMContentLoaded", async () => {
             if (data[kelas].Kode.toLowerCase() === kode) {
                 found = true;
                 modalTitle.textContent = `Hasil Ujian - ${kelas}`;
-                passingGrade = `Passing Grade: ${PG}`;
                 hasilContent.innerHTML = "";
+
+                const pgElement = document.getElementById("passingGrade");
+                if (pgElement) {
+                    pgElement.textContent = `Passing Grade : ${data[kelas].PassingGrade}`;
+                }
 
                 data[kelas].Hasil.forEach(siswa => {
                     hasilContent.innerHTML += `

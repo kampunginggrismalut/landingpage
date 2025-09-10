@@ -1,6 +1,7 @@
 {
     "NW 8": {
         "Kode": "634239",
+        "PassingGrade": 85,
         "Hasil": [
             {
                 "Nama": "NURUL ANNISA",
@@ -32,11 +33,11 @@
                 "Nilai": 85,
                 "Keterangan": "LULUS"
             }
-        ],
-        "PG": 85
+        ]
     },
     "PI 2": {
         "Kode": "093594",
+        "PassingGrade": 85,
         "Hasil": [
             {
                 "Nama": "M. FATHURRAJIQ",
@@ -73,7 +74,6 @@
                 "Nilai": 86,
                 "Keterangan": "LULUS"
             }
-        ],
-        "PG": 85
+        ]
     }
 }

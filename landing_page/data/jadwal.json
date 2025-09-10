@@ -9,12 +9,6 @@
         "Selasa": "05:30 (Sore)",
         "Rabu": "05:30 (Sore)"
     },
-    "Kelas Y": {
-        "Selasa": "05:45 (Sore, UJIAN)"
-    },
-    "Kelas Z": {
-        "Rabu": "05:45 (Sore, UJIAN)"
-    },
     "SFZ A": {
         "Senin": "07:10 (Malam)",
         "Selasa": "07:10 (Malam)",
@@ -24,9 +18,6 @@
         "Selasa": "08:40 (Malam)",
         "Rabu": "08:40 (Malam)",
         "Kamis": "08:40 (Malam)"
-    },
-    "NW 8": {
-        "Senin": "06:00 (Sore, UJIAN)"
     },
     "NW 9": {
         "Senin": "07:10 (Malam)",
@@ -41,10 +32,14 @@
         "Kamis": "07:10 (Malam)"
     },
     "FTA 9": {
-        "Minggu Depan": ""
+        "Senin": "08:40 (Malam)",
+        "Selasa": "08:40 (Malam)",
+        "Rabu": "08:40 (Malam)"
     },
     "PI 2": {
-        "Minggu Depan": ""
+        "Kamis": "7:10 (Malam)",
+        "Jumat": "06:00 (Sore)",
+        "Sabtu": "05:30 (Sore)"
     },
     "PI 3": {
         "Senin": "08:40 (Malam)",

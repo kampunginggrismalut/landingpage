@@ -1,4 +1,50 @@
 {
+    "Kelas Y": {
+        "Kode": "486123",
+        "PassingGrade": 75,
+        "Hasil": [
+            {
+                "Nama": "PUTRI WULANSARI",
+                "Nilai": 78,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "MUHAMMAD HIKMA ILHAM",
+                "Nilai": 95,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "M. ARHYZ JURNALIS LUTFI",
+                "Nilai": 78,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "MUHAMMAD NASRULLAH HASAN",
+                "Nilai": 80,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "SUSI SRIFAYA",
+                "Nilai": 79,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "M. FADLAN SABAN",
+                "Nilai": 83,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "M. TRISNA DALMAS PORA",
+                "Nilai": 85,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "MUHAMMAD RAFI",
+                "Nilai": 95,
+                "Keterangan": "LULUS"
+            }
+        ]
+    },
     "NW 8": {
         "Kode": "634239",
         "PassingGrade": 85,

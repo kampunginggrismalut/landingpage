@@ -45,6 +45,52 @@
             }
         ]
     },
+    "Kelas Z": {
+        "Kode": "543801",
+        "PassingGrade": 75,
+        "Hasil": [
+            {
+                "Nama": "MEDINA NURKHASANAH",
+                "Nilai": 78,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "M. REZA LASAMA",
+                "Nilai": 90,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "JIHAN S. ABAS",
+                "Nilai": 77,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "MUHAMMAD RIFKY",
+                "Nilai": 87,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "NURUL AULIYA KARIM",
+                "Nilai": 87,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "NAZWA INDAH PRATIWI",
+                "Nilai": 92,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "M. NURUL RIZKY MASUKU",
+                "Nilai": 91,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "GINA ELLORA",
+                "Nilai": 93,
+                "Keterangan": "LULUS"
+            }
+        ]
+    },
     "NW 8": {
         "Kode": "634239",
         "PassingGrade": 85,

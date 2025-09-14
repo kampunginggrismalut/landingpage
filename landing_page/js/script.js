@@ -211,6 +211,7 @@ function showJadwalModal(kelas) {
 
   const modal = document.getElementById('jadwal-modal');
   const modalTitle = document.getElementById('modal-title');
+  const namaTutor = document.getElementById('nama-tutor');
   const scheduleContent = document.getElementById('schedule-content');
 
   if (!modal || !modalTitle || !scheduleContent) {
@@ -226,9 +227,18 @@ function showJadwalModal(kelas) {
   modalTitle.textContent = kelas.toUpperCase();
   scheduleContent.innerHTML = '';
 
+  // Tampilkan nama tutor jika ada
+  if (jadwalKelas[kelas] && jadwalKelas[kelas].Tutor) {
+    namaTutor.textContent = `Tutor: ${jadwalKelas[kelas].Tutor}`;
+  } else {
+    namaTutor.textContent = '';
+  }
+
   // Hanya menampilkan hari yang memiliki jadwal
   if (jadwalKelas[kelas]) {
     for (const [day, time] of Object.entries(jadwalKelas[kelas])) {
+      if (day === "Tutor") continue;
+
       const dayElement = document.createElement('div');
       dayElement.className = 'schedule-day p-3 text-center min-w-[100px]';
 

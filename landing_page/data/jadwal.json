@@ -1,47 +1,60 @@
 {
     "Kelas SD": {
+        "Tutor": "Ms. Put dan Ms. Tasya",
         "Selasa": "04:45 (Sore)",
         "Kamis": "04:45 (Sore)",
         "Sabtu": "04:45 (Sore)"
     },
     "Kelas Vice": {
-        "Senin": "05:30 (Sore)",
-        "Selasa": "05:30 (Sore)",
-        "Rabu": "05:30 (Sore)"
+        "Tutor": "Ms. Tita",
+        "Senin": "05:20 (Sore)",
+        "Selasa": "05:20 (Sore)",
+        "Rabu": "05:20 (Sore)"
     },
     "SFZ A": {
+        "Tutor": "Ms. Sitna",
         "Senin": "07:10 (Malam)",
         "Selasa": "07:10 (Malam)",
         "Rabu": "07:10 (Malam)"
     },
     "SFZ B": {
+        "Tutor": "Mr. Agil",
         "Selasa": "08:40 (Malam)",
         "Rabu": "08:40 (Malam)",
         "Kamis": "08:40 (Malam)"
     },
+    "SFZ C": {
+        "Tutor": "Ms. Yana",
+        "Minggu Depan": ""
+    },
     "NW 9": {
+        "Tutor": "Mr. Ardi",
         "Senin": "07:10 (Malam)",
         "Selasa": "07:10 (Malam)",
         "Rabu": "07:10 (Malam)",
         "Kamis": "07:10 (Malam)"
     },
     "NW 10": {
+        "Tutor": "Mr. Zul",
         "Senin": "07:10 (Malam)",
         "Selasa": "07:10 (Malam)",
         "Rabu": "07:10 (Malam)",
         "Kamis": "07:10 (Malam)"
     },
     "FTA 9": {
+        "Tutor": "Mr. Zul",
         "Senin": "08:40 (Malam)",
         "Selasa": "08:40 (Malam)",
         "Rabu": "08:40 (Malam)"
     },
     "PI 2": {
+        "Tutor": "Sir Ipox",
         "Kamis": "7:10 (Malam)",
         "Jumat": "06:00 (Sore)",
         "Sabtu": "05:30 (Sore)"
     },
     "PI 3": {
+        "Tutor": "Sir Ipox",
         "Senin": "08:40 (Malam)",
         "Selasa": "08:40 (Malam)",
         "Rabu": "08:40 (Malam)",

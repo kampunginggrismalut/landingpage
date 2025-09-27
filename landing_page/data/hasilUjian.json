@@ -45,125 +45,33 @@
             }
         ]
     },
-    "Kelas Z": {
-        "Kode": "543801",
+    "SFZ A": {
+        "Kode": "752319",
         "PassingGrade": 75,
         "Hasil": [
             {
-                "Nama": "MEDINA NURKHASANAH",
+                "Nama": "RASTI ALDIRA",
                 "Nilai": 78,
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "M. REZA LASAMA",
-                "Nilai": 90,
+                "Nama": "AZIZAH CAHYA NACHRAWI",
+                "Nilai": 76,
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "JIHAN S. ABAS",
-                "Nilai": 77,
+                "Nama": "SHINTA ANGGRAENI SUKRI",
+                "Nilai": 89,
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "MUHAMMAD RIFKY",
-                "Nilai": 87,
+                "Nama": "TRI YASMIN",
+                "Nilai": 78,
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "NURUL AULIYA KARIM",
-                "Nilai": 87,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "NAZWA INDAH PRATIWI",
-                "Nilai": 92,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "M. NURUL RIZKY MASUKU",
-                "Nilai": 91,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "GINA ELLORA",
-                "Nilai": 93,
-                "Keterangan": "LULUS"
-            }
-        ]
-    },
-    "NW 8": {
-        "Kode": "634239",
-        "PassingGrade": 85,
-        "Hasil": [
-            {
-                "Nama": "NURUL ANNISA",
-                "Nilai": 83.6,
-                "Keterangan": "TIDAK LULUS"
-            },
-            {
-                "Nama": "ARTALITA RASID",
-                "Nilai": 71,
-                "Keterangan": "TIDAK LULUS"
-            },
-            {
-                "Nama": "M. ZIAD LA INTA DJAJIRA",
-                "Nilai": 89.6,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "IRMA SURYANI",
-                "Nilai": 85,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "VIVI TRI PUTRI",
-                "Nilai": 70,
-                "Keterangan": "TIDAK LULUS"
-            },
-            {
-                "Nama": "JULIYANTO ISKANDAR ALAM",
-                "Nilai": 85,
-                "Keterangan": "LULUS"
-            }
-        ]
-    },
-    "PI 2": {
-        "Kode": "093594",
-        "PassingGrade": 85,
-        "Hasil": [
-            {
-                "Nama": "M. FATHURRAJIQ",
-                "Nilai": 97,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "PUTRI NURSHANTI",
-                "Nilai": 90,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "SITNA A. DJAE",
-                "Nilai": 90,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "IRIANA RUSDI",
-                "Nilai": 86,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "ISWAN ALBAR",
-                "Nilai": 80,
-                "Keterangan": "TIDAK LULUS"
-            },
-            {
-                "Nama": "NISYA ARTINA IRFAN",
-                "Nilai": 77,
-                "Keterangan": "TIDAK LULUS"
-            },
-            {
-                "Nama": "LILI SURANI",
-                "Nilai": 86,
+                "Nama": "RAHIMATUSSA'DIYAH",
+                "Nilai": 82,
                 "Keterangan": "LULUS"
             }
         ]

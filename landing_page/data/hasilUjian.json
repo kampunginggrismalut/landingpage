@@ -45,34 +45,44 @@
             }
         ]
     },
-    "SFZ A": {
-        "Kode": "752319",
-        "PassingGrade": 75,
+    "NW 9": {
+        "Kode": "554686",
+        "PassingGrade": 85,
         "Hasil": [
             {
-                "Nama": "RASTI ALDIRA",
-                "Nilai": 78,
+                "Nama": "MUTIARA HUSEN",
+                "Nilai": 92,
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "AZIZAH CAHYA NACHRAWI",
-                "Nilai": 76,
+                "Nama": "UMI INAYA A. FARIS",
+                "Nilai": 92,
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "SHINTA ANGGRAENI SUKRI",
-                "Nilai": 89,
+                "Nama": "RAMLAH ZAHWA NAILA SANGAJI",
+                "Nilai": 97,
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "TRI YASMIN",
-                "Nilai": 78,
+                "Nama": "RASYA PUTRA ADITYA HUSEN",
+                "Nilai": 92,
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "RAHIMATUSSA'DIYAH",
-                "Nilai": 82,
+                "Nama": "ASTRI HERAWATI MERADJI",
+                "Nilai": 85,
                 "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "FAHRUL ROJI",
+                "Nilai": 69,
+                "Keterangan": "TIDAK LULUS"
+            },
+            {
+                "Nama": "NURKASILA ILHAM",
+                "Nilai": 79,
+                "Keterangan": "TIDAK LULUS"
             }
         ]
     }

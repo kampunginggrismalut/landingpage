@@ -23,12 +23,15 @@
         "Selasa": "07:10 (Malam)",
         "Rabu": "07:10 (Malam)"
     },
-    "NW 10": {
-        "Tutor": "Mr. Zul",
+    "SFZ D": {
+        "Tutor": "Ms. Sitna",
         "Senin": "07:10 (Malam)",
         "Selasa": "07:10 (Malam)",
-        "Rabu": "07:10 (Malam)",
-        "Kamis": "07:10 (Malam)"
+        "Rabu": "07:10 (Malam)"
+    },
+    "NW 10": {
+        "Tutor": "Mr. Zul",
+        "Jumat": "7: 10 (Malam, Ujian)"
     },
     "NW 11": {
         "Tutor": "Ms. Nisya",
@@ -45,9 +48,7 @@
     },
     "PI 2": {
         "Tutor": "Sir Ipox",
-        "Selasa": "05:50 (Sore)",
-        "Rabu": "05:50 (Sore)",
-        "Kamis": "05:50 (Sore)"
+        "Jumat": "07:10 (Malam, Ujian)"
     },
     "PI 3": {
         "Tutor": "Sir Ipox",

@@ -35,10 +35,6 @@
         "Selasa": "07:10 (Malam)",
         "Rabu": "07:10 (Malam)"
     },
-    "NW 10": {
-        "Tutor": "Mr. Zul",
-        "Jumat": "07:10 (Malam, Ujian)"
-    },
     "NW 11": {
         "Tutor": "Ms. Nisya",
         "Senin": "07:10 (Malam)",
@@ -51,10 +47,6 @@
         "Senin": "08:40 (Malam)",
         "Selasa": "08:40 (Malam)",
         "Rabu": "08:40 (Malam)"
-    },
-    "PI 2": {
-        "Tutor": "Sir Ipox",
-        "Jumat": "07:10 (Malam, Ujian)"
     },
     "PI 3": {
         "Tutor": "Sir Ipox",

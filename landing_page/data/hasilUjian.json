@@ -85,5 +85,31 @@
                 "Keterangan": "TIDAK LULUS"
             }
         ]
+    },
+    "NW 10": {
+        "Kode": "789351",
+        "PassingGrade": 85,
+        "Hasil": [
+            {
+                "Nama": "NURSINTA WAKANG",
+                "Nilai": 95,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "RAMDANIWANTI MUTABIR",
+                "Nilai": 83,
+                "Keterangan": "TIDAK LULUS"
+            },
+            {
+                "Nama": "SAFITRI M. J. WAHID",
+                "Nilai": 84,
+                "Keterangan": "TIDAK LULUS"
+            },
+            {
+                "Nama": "NAZRUL NAKER",
+                "Nilai": 74,
+                "Keterangan": "TIDAK LULUS"
+            }
+        ]
     }
 }

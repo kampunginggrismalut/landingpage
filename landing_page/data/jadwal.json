@@ -12,10 +12,7 @@
         "Sabtu": "05:45 (Sore)"
     },
     "SFZ B": {
-        "Tutor": "Mr. Agil",
-        "Senin": "08:40 (Malam)",
-        "Selasa": "08:40 (Malam)",
-        "Rabu": "08:40 (Malam)"
+        "Kamis": "07: 10 (Ujian, Malam)"
     },
     "SFZ C": {
         "Tutor": "Ms. Yana",
@@ -43,6 +40,9 @@
         "Kamis": "07:10 (Malam)"
     },
     "FTA 9": {
+        "Kamis": "07:10 (Ujian, Malam)"
+    },
+    "FTA 10": {
         "Tutor": "Mr. Zul",
         "Senin": "08:40 (Malam)",
         "Selasa": "08:40 (Malam)",

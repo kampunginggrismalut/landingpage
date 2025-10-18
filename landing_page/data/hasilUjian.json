@@ -4,24 +4,29 @@
         "PassingGrade": 85,
         "Hasil": [
             {
-                "Nama": "NURSINTA WAKANG",
-                "Nilai": 95,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "RAMDANIWANTI MUTABIR",
+                "Nama": "ALFIARA DETIRTA GAILEA",
                 "Nilai": 86,
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "SAFITRI M. J. WAHID",
+                "Nama": "MUDASIR HI. SIDIK",
                 "Nilai": 87,
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "NAZRUL NAKER",
-                "Nilai": 74,
-                "Keterangan": "TIDAK LULUS"
+                "Nama": "ARIEL AL FAHRIZIY M. KUYLO",
+                "Nilai": 88,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "M. FAUDZIL NISAR",
+                "Nilai": 93,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "KHAIRUNNISA SOANGARE",
+                "Nilai": 97,
+                "Keterangan": "LULUS"
             }
         ]
     },

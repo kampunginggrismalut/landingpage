@@ -1,93 +1,6 @@
 {
-    "Kelas Y": {
-        "Kode": "486123",
-        "PassingGrade": 75,
-        "Hasil": [
-            {
-                "Nama": "PUTRI WULANSARI",
-                "Nilai": 78,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "MUHAMMAD HIKMA ILHAM",
-                "Nilai": 95,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "M. ARHYZ JURNALIS LUTFI",
-                "Nilai": 78,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "MUHAMMAD NASRULLAH HASAN",
-                "Nilai": 80,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "SUSI SRIFAYA",
-                "Nilai": 79,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "M. FADLAN SABAN",
-                "Nilai": 83,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "M. TRISNA DALMAS PORA",
-                "Nilai": 85,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "MUHAMMAD RAFI",
-                "Nilai": 95,
-                "Keterangan": "LULUS"
-            }
-        ]
-    },
-    "NW 9": {
-        "Kode": "554686",
-        "PassingGrade": 85,
-        "Hasil": [
-            {
-                "Nama": "MUTIARA HUSEN",
-                "Nilai": 92,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "UMI INAYA A. FARIS",
-                "Nilai": 92,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "RAMLAH ZAHWA NAILA SANGAJI",
-                "Nilai": 97,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "RASYA PUTRA ADITYA HUSEN",
-                "Nilai": 92,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "ASTRI HERAWATI MERADJI",
-                "Nilai": 85,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "FAHRUL ROJI",
-                "Nilai": 75,
-                "Keterangan": "TIDAK LULUS"
-            },
-            {
-                "Nama": "NURKASILA ILHAM",
-                "Nilai": 79,
-                "Keterangan": "TIDAK LULUS"
-            }
-        ]
-    },
-    "NW 10": {
-        "Kode": "789351",
+    "SFZ B": {
+        "Kode": "233871",
         "PassingGrade": 85,
         "Hasil": [
             {
@@ -109,6 +22,63 @@
                 "Nama": "NAZRUL NAKER",
                 "Nilai": 74,
                 "Keterangan": "TIDAK LULUS"
+            }
+        ]
+    },
+    "FTA 9": {
+        "Kode": "681845",
+        "PassingGrade": 85,
+        "Hasil": [
+            {
+                "Nama": "NURSINTA WAKANG",
+                "Nilai": 95,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "RAMDANIWANTI MUTABIR",
+                "Nilai": 86,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "SAFITRI M. J. WAHID",
+                "Nilai": 87,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "NAZRUL NAKER",
+                "Nilai": 74,
+                "Keterangan": "TIDAK LULUS"
+            }
+        ]
+    },
+    "PI 2": {
+        "Kode": "871546",
+        "PassingGrade": 85,
+        "Hasil": [
+            {
+                "Nama": "M. FATHURRAJIQ",
+                "Nilai": 92,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "LILI SURANI",
+                "Nilai": 87,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": " IRIANA RUSDI",
+                "Nilai": 86,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "PUTRI NURSHANTI",
+                "Nilai": 83,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "SITNA A. DJAE",
+                "Nilai": 81,
+                "Keterangan": "LULUS"
             }
         ]
     }

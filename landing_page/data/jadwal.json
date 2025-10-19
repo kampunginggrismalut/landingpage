@@ -28,13 +28,20 @@
         "Rabu": "07:10 (Malam)"
     },
     "SFZ F": {
-        "Tutor": "-",
+        "Tutor": "Mr./Ms. Unknown",
         "Senin": "07:10 (Malam)",
         "Selasa": "07:10 (Malam)",
         "Rabu": "07:10 (Malam)"
     },
     "NW 11": {
         "Tutor": "Ms. Nisya",
+        "Senin": "08:40 (Malam)",
+        "Selasa": "08:40 (Malam)",
+        "Rabu": "08:40 (Malam)",
+        "Kamis": "08:40 (Malam)"
+    },
+    "NW 12": {
+        "Tutor": "Mr./Ms. Unknown",
         "Senin": "08:40 (Malam)",
         "Selasa": "08:40 (Malam)",
         "Rabu": "08:40 (Malam)",
@@ -51,9 +58,6 @@
     },
     "PI 3": {
         "Tutor": "Sir Ipox",
-        "Senin": "08:40 (Malam)",
-        "Selasa": "08:40 (Malam)",
-        "Rabu": "08:40 (Malam)",
-        "Kamis": "08:40 (Malam)"
+        "Ujian": "Kesatu"
     }
 }

@@ -11,14 +11,9 @@
         "Kamis": "05:45 (Sore)",
         "Sabtu": "05:45 (Sore)"
     },
-    "SFZ B": {
-        "Kamis": "07:10 (Malam, Ujian)"
-    },
     "SFZ C": {
         "Tutor": "Ms. Yana",
-        "Senin": "07:10 (Malam)",
-        "Selasa": "07:10 (Malam)",
-        "Rabu": "07:10 (Malam)"
+        "Kamis": "07:10 (Malam, Ujian)"
     },
     "SFZ D": {
         "Tutor": "Ms. Sitna",
@@ -32,8 +27,11 @@
         "Selasa": "07:10 (Malam)",
         "Rabu": "07:10 (Malam)"
     },
-    "NW 10": {
-        "Hasil Ujian": "Minggu Ini"
+    "SFZ F": {
+        "Tutor": "-",
+        "Senin": "07:10 (Malam)",
+        "Selasa": "07:10 (Malam)",
+        "Rabu": "07:10 (Malam)"
     },
     "NW 11": {
         "Tutor": "Ms. Nisya",
@@ -42,14 +40,11 @@
         "Rabu": "08:40 (Malam)",
         "Kamis": "08:40 (Malam)"
     },
-    "FTA 9": {
-        "Kamis": "07:10 (Ujian, Malam)"
-    },
     "FTA 10": {
         "Tutor": "Mr. Zul",
+        "Senin": "08:40 (Malam)",
         "Selasa": "08:40 (Malam)",
-        "Rabu": "08:40 (Malam)",
-        "Kamis": "08:40 (Malam)"
+        "Rabu": "08:40 (Malam)"
     },
     "PI 2": {
         "Hasil Ujian": "Minggu Ini"

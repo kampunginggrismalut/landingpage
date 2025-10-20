@@ -68,7 +68,7 @@
     },
     "PI 2": {
         "Kode": "871546",
-        "PassingGrade": 85,
+        "PassingGrade": 80,
         "Hasil": [
             {
                 "Nama": "M. FATHURRAJIQ",
@@ -88,12 +88,12 @@
             {
                 "Nama": "PUTRI NURSHANTI",
                 "Nilai": 83,
-                "Keterangan": "TIDAK LULUS"
+                "Keterangan": "LULUS"
             },
             {
                 "Nama": "SITNA A. DJAE",
                 "Nilai": 81,
-                "Keterangan": "TIDAK LULUS"
+                "Keterangan": "LULUS"
             }
         ]
     }

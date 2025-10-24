@@ -8,6 +8,18 @@
     "Kelas Vice": {
         "Kamis": "05:00 (Sore, Ujian)"
     },
+    "SFZ IF - A": {
+        "Tutor": "Ms. ",
+        "Jumat": "07:10 (Malam)"
+    },
+    "SFZ IF - B": {
+        "Tutor": "Ms. Yana",
+        "Jumat": "07:10 (Malam)"
+    },
+    "SFZ IF - C": {
+        "Tutor": "Ms. Tita",
+        "Jumat": "07:10 (Malam)"
+    },
     "SFZ C": {
         "Tutor": "Ms. Yana",
         "Kamis": "07:10 (Malam, Ujian)"

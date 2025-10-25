@@ -1,98 +1,36 @@
 {
-    "SFZ B": {
-        "Kode": "233871",
-        "PassingGrade": 75,
+    "VICE": {
+        "Kode": "289741",
+        "PassingGrade": 85,
         "Hasil": [
             {
-                "Nama": "ALFIARA DETIRTA GAILEA",
-                "Nilai": 86,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "MUDASIR HI. SIDIK",
-                "Nilai": 87,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "ARIEL AL FAHRIZIY M. KUYLO",
+                "Nama": "ALGAZALI LANONGBUKA",
                 "Nilai": 88,
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "M. FAUDZIL NISAR",
-                "Nilai": 93,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "KHAIRUNNISA SOANGARE",
-                "Nilai": 97,
-                "Keterangan": "LULUS"
-            }
-        ]
-    },
-    "FTA 9": {
-        "Kode": "681845",
-        "PassingGrade": 85,
-        "Hasil": [
-            {
-                "Nama": "GIBRAN HILAL XAVAER",
-                "Nilai": 87,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "M. ZIAD LA INTA DJAJIRA",
-                "Nilai": 82,
-                "Keterangan": "TIDAK LULUS"
-            },
-            {
-                "Nama": "RISALDI SAPSUHA",
-                "Nilai": 86,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "AMRAN JUNAIDI",
-                "Nilai": 86,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "DWI HASRIADI",
-                "Nilai": 94,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "KIARRA RIBHY IMANUELA NURUE",
-                "Nilai": 86,
-                "Keterangan": "LULUS"
-            }
-        ]
-    },
-    "PI 2": {
-        "Kode": "871546",
-        "PassingGrade": 80,
-        "Hasil": [
-            {
-                "Nama": "M. FATHURRAJIQ",
+                "Nama": "ZAHIRUL UBAID MERADJI",
                 "Nilai": 92,
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "LILI SURANI",
-                "Nilai": 87,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": " IRIANA RUSDI",
+                "Nama": " JOVIANA LOVYTHA",
                 "Nilai": 86,
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "PUTRI NURSHANTI",
-                "Nilai": 83,
+                "Nama": "SRI ANDIRI ABDUL KATWIN",
+                "Nilai": 94,
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "SITNA A. DJAE",
-                "Nilai": 81,
+                "Nama": "BAMA PUTRA HELMI",
+                "Nilai": 87,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "IBNU ARZZIL K. BAYAN",
+                "Nilai": 86,
                 "Keterangan": "LULUS"
             }
         ]

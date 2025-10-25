@@ -5,24 +5,23 @@
         "Kamis": "04:45 (Sore)",
         "Sabtu": "04:45 (Sore)"
     },
-    "Kelas Vice": {
-        "Kamis": "05:00 (Sore, Ujian)"
-    },
     "SFZ IF - A": {
-        "Tutor": "Ms. ",
-        "Jumat": "07:10 (Malam)"
+        "Tutor": "Mr. Agil",
+        "Senin": "07:10 (Malam)",
+        "Selasa": "07:10 (Malam)",
+        "Rabu": "07:10 (Malam)"
     },
     "SFZ IF - B": {
         "Tutor": "Ms. Yana",
-        "Jumat": "07:10 (Malam)"
+        "Senin": "08:40 (Malam)",
+        "Selasa": "08:40 (Malam)",
+        "Rabu": "08:40 (Malam)"
     },
     "SFZ IF - C": {
         "Tutor": "Ms. Tita",
-        "Jumat": "07:10 (Malam)"
-    },
-    "SFZ C": {
-        "Tutor": "Ms. Yana",
-        "Kamis": "07:10 (Malam, Ujian)"
+        "Senin": "07:10 (Malam)",
+        "Selasa": "07:10 (Malam)",
+        "Rabu": "07:10 (Malam)"
     },
     "SFZ D": {
         "Tutor": "Ms. Sitna",
@@ -32,9 +31,9 @@
     },
     "SFZ E": {
         "Tutor": "Mr. Ardi",
-        "Senin": "07:10 (Malam)",
-        "Selasa": "07:10 (Malam)",
-        "Rabu": "07:10 (Malam)"
+        "Senin": "05:40 (Sore)",
+        "Selasa": "05:40 (Sore)",
+        "Rabu": "05:40 (Sore)"
     },
     "SFZ F": {
         "Tutor": "Mr. Agil",
@@ -43,14 +42,14 @@
         "Rabu": "08:40 (Malam)"
     },
     "NW 11": {
-        "Selasa": "07:30 (Malam, Ujian)"
+        "Kamis": "07:30 (Malam, Ujian)"
     },
     "NW 12": {
-        "Tutor": "Sir Ipox",
-        "Senin": "07:10 (Malam)",
-        "Selasa": "07:10 (Malam)",
-        "Rabu": "07:10 (Malam)",
-        "Kamis": "07:10 (Malam)"
+        "Tutor": "Ms. Nisya",
+        "Senin": "05:40 (Sore)",
+        "Selasa": "05:40 (Sore)",
+        "Rabu": "05:40 (Sore)",
+        "Kamis": "05:40 (Sore)"
     },
     "FTA 10": {
         "Tutor": "Mr. Zul",
@@ -64,9 +63,9 @@
     },
     "PI 4": {
         "Tutor": "Sir Ipox",
-        "Senin": "08:40 (Malam)",
-        "Selasa": "08:40 (Malam)",
-        "Rabu": "08:40 (Malam)",
-        "Kamis": "08:40 (Malam)"
+        "Senin": "05:40 (Sore)",
+        "Selasa": "05:40 (Sore)",
+        "Rabu": "05:40 (Sore)",
+        "Kamis": "05:40 (Sore)"
     }
 }

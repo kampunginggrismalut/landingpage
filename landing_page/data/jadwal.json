@@ -1,9 +1,15 @@
 {
     "Kelas SD": {
         "Tutor": "Ms. Cica dan Ms. Daniyah",
-        "Selasa": "04:45 (Sore)",
-        "Kamis": "04:45 (Sore)",
-        "Sabtu": "04:45 (Sore)"
+        "Selasa": "05:00 (Sore)",
+        "Kamis": "05:00 (Sore)",
+        "Sabtu": "05:00 (Sore)"
+    },
+    "VICE - A": {
+        "Tutor": "",
+        "Selasa": "05:30 (Sore)",
+        "Kamis": "05:30 (Sore)",
+        "Sabtu": "05:30 (Sore)"
     },
     "SFZ IF - A": {
         "Tutor": "Mr. Agil",
@@ -49,7 +55,7 @@
         "Senin": "05:40 (Sore)",
         "Selasa": "05:40 (Sore)",
         "Rabu": "05:40 (Sore)",
-        "Kamis": "05:40 (Sore)"
+        "Kamis": "07:10 (Malam)"
     },
     "FTA 10": {
         "Tutor": "Mr. Zul",
@@ -66,6 +72,6 @@
         "Senin": "05:40 (Sore)",
         "Selasa": "05:40 (Sore)",
         "Rabu": "05:40 (Sore)",
-        "Kamis": "05:40 (Sore)"
+        "Kamis": "07:10 (Malam)"
     }
 }

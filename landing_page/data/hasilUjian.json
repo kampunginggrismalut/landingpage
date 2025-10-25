@@ -34,5 +34,41 @@
                 "Keterangan": "LULUS"
             }
         ]
+    },
+    "SFZ C": {
+        "Kode": "723182",
+        "PassingGrade": 75,
+        "Hasil": [
+            {
+                "Nama": "MEYLLA MAWADDAH",
+                "Nilai": 82,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "ULMA DWI LESTARI",
+                "Nilai": 94,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "RIZKIKA PUTRI FIRJIANA",
+                "Nilai": 93,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "NURUL INTAN BADIAH",
+                "Nilai": 86,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "HASTRIANI",
+                "Nilai": 85,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "HILYAH RAFIQAH HAFID",
+                "Nilai": 93,
+                "Keterangan": "LULUS"
+            }
+        ]
     }
 }

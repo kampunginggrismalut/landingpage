@@ -1,4 +1,4 @@
-const scriptURL = "https://script.google.com/macros/s/AKfycbzQe97aoOOaK7kfIs4H22nB5v9DVbzIyfByOUiXi5Svtak1jJUzCsr45qNwGRVYnihB/exec";
+const scriptURL = "https://script.google.com/macros/s/AKfycbwNoCfsIRZhTUufcZ1sTOKNFcruBXld8zQRzWYHMJRAKTymGBCCezhnr_YtVzFkk33t/exec";
 
 // Ambil form berdasarkan ID
 const form = document.getElementById("submit-to-google-sheet");

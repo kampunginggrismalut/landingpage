@@ -1,7 +1,7 @@
-const scriptURL = "https://script.google.com/macros/s/AKfycby8f_hE1Bt3cYIp-8QbmHWiTWp5bAp3QPerZjZUsnt8eDAMqYenaHpwSGkR8t4rn7DT2g/exec";
+const scriptURL = "https://script.google.com/macros/s/AKfycbzQe97aoOOaK7kfIs4H22nB5v9DVbzIyfByOUiXi5Svtak1jJUzCsr45qNwGRVYnihB/exec";
 
 // Ambil form berdasarkan ID
-const form = document.getElementById("presensiForm");
+const form = document.getElementById("submit-to-google-sheet");
 
 form.addEventListener("submit", (e) => {
     e.preventDefault();

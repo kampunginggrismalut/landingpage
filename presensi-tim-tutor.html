@@ -101,29 +101,8 @@
         </div>
     </div>
 
-    <script>
-        const scriptURL = "https://script.google.com/macros/s/AKfycbz0id92T21XPPgXRKprcow4wksu7h2BFBbyYm2-UnpRdkY-Stzm-r8jxFICaAthqESk-g/exec";
-        const form = document.getElementById("submit-to-google-sheet");
-        const modal = document.getElementById("successModal");
-        const closeModal = document.getElementById("closeModal");
+    <script src="/landing_page/js/presensi-tutor-tim.js">
 
-        form.addEventListener("submit", (e) => {
-            e.preventDefault();
-            const formData = new FormData(form);
-
-            fetch(scriptURL, { method: "POST", body: formData })
-                .then(() => {
-                    modal.classList.remove("hidden");
-                    form.reset();
-                })
-                .catch(() => {
-                    alert("Terjadi kesalahan. Coba lagi nanti!");
-                });
-        });
-
-        closeModal.addEventListener("click", () => {
-            modal.classList.add("hidden");
-        });
     </script>
 
 </body>

@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Presensi Tutor dan Tim</title>
+    <meta name="description" content="Form Presensi Tutor dan Tim - Kampung Inggris Maluku Utara">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.2.1/flowbite.min.css" rel="stylesheet" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.2.1/flowbite.min.js"></script>
+    <script src="https://kit.fontawesome.com/a2d04b5a6e.js" crossorigin="anonymous"></script>
+</head>
+
+<body class="bg-white min-h-screen flex items-center justify-center p-4">
+
+    <div class="max-w-md w-full bg-white rounded-2xl shadow-xl overflow-hidden">
+        <!-- Header -->
+        <div class="bg-blue-600 p-6 text-white">
+            <div class="flex items-center justify-center mb-2">
+                <i class="fas fa-calendar-check text-3xl mr-3"></i>
+                <h1 class="text-2xl font-bold">Form Presensi</h1>
+            </div>
+            <p class="text-center text-blue-100">Isi data kehadiran Anda dengan benar</p>
+        </div>
+
+        <!-- Form -->
+        <form class="p-6 space-y-6" id="submit-to-google-sheet">
+            <!-- Nama -->
+            <div>
+                <label for="nama" class="block text-sm font-medium text-gray-700 mb-1">Nama Lengkap</label>
+                <input type="text" id="nama" name="nama" required
+                    class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition duration-200"
+                    placeholder="Masukkan nama lengkap dengan huruf kapital">
+            </div>
+
+            <!-- Kelas -->
+            <div>
+                <label for="kelas" class="block text-sm font-medium text-gray-700 mb-1">Kelas</label>
+                <input type="text" id="kelas" name="kelas" required
+                    class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition duration-200"
+                    placeholder="Masukkan nama kelas Anda">
+            </div>
+
+            <!-- Kehadiran -->
+            <div>
+                <p class="block text-sm font-medium text-gray-700 mb-3">Status Kehadiran</p>
+                <div class="grid grid-cols-2 gap-3">
+                    <label
+                        class="flex items-center p-3 border border-gray-300 rounded-lg cursor-pointer hover:bg-blue-50 transition duration-200 has-[:checked]:bg-blue-100 has-[:checked]:border-blue-500">
+                        <input type="radio" name="kehadiran" value="Hadir"
+                            class="h-4 w-4 text-blue-600 focus:ring-blue-500" required>
+                        <span class="ml-2 text-sm font-medium text-gray-700">Hadir</span>
+                    </label>
+
+                    <label
+                        class="flex items-center p-3 border border-gray-300 rounded-lg cursor-pointer hover:bg-blue-50 transition duration-200 has-[:checked]:bg-blue-100 has-[:checked]:border-blue-500">
+                        <input type="radio" name="kehadiran" value="Izin"
+                            class="h-4 w-4 text-blue-600 focus:ring-blue-500">
+                        <span class="ml-2 text-sm font-medium text-gray-700">Izin</span>
+                    </label>
+
+                    <label
+                        class="flex items-center p-3 border border-gray-300 rounded-lg cursor-pointer hover:bg-blue-50 transition duration-200 has-[:checked]:bg-blue-100 has-[:checked]:border-blue-500">
+                        <input type="radio" name="kehadiran" value="Sakit"
+                            class="h-4 w-4 text-blue-600 focus:ring-blue-500">
+                        <span class="ml-2 text-sm font-medium text-gray-700">Sakit</span>
+                    </label>
+
+                    <label
+                        class="flex items-center p-3 border border-gray-300 rounded-lg cursor-pointer hover:bg-blue-50 transition duration-200 has-[:checked]:bg-blue-100 has-[:checked]:border-blue-500">
+                        <input type="radio" name="kehadiran" value="Alfa"
+                            class="h-4 w-4 text-blue-600 focus:ring-blue-500">
+                        <span class="ml-2 text-sm font-medium text-gray-700">Alfa</span>
+                    </label>
+                </div>
+            </div>
+
+            <!-- Submit -->
+            <button type="submit"
+                class="w-full bg-blue-600 text-white py-3 px-4 rounded-lg font-semibold shadow-md hover:bg-blue-700 transition duration-200 transform hover:-translate-y-0.5">
+                <i class="fas fa-paper-plane mr-2"></i>Submit Presensi
+            </button>
+        </form>
+    </div>
+
+    <!-- Modal -->
+    <div id="successModal"
+        class="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center p-4 z-50 hidden">
+        <div
+            class="bg-white rounded-2xl p-6 max-w-sm w-full text-center transform transition-all duration-300 scale-95">
+            <div class="w-16 h-16 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                <i class="fas fa-check text-green-600 text-2xl"></i>
+            </div>
+            <h3 class="text-xl font-bold text-gray-800 mb-2">Presensi Berhasil!</h3>
+            <p class="text-gray-600 mb-6">Data kehadiran Anda telah tercatat.</p>
+            <button id="closeModal"
+                class="w-full bg-blue-600 text-white py-2 px-4 rounded-lg font-medium hover:bg-blue-700 transition duration-200">
+                Tutup
+            </button>
+        </div>
+    </div>
+
+    <script>
+        const scriptURL = "https://script.google.com/macros/s/AKfycbz0id92T21XPPgXRKprcow4wksu7h2BFBbyYm2-UnpRdkY-Stzm-r8jxFICaAthqESk-g/exec";
+        const form = document.getElementById("submit-to-google-sheet");
+        const modal = document.getElementById("successModal");
+        const closeModal = document.getElementById("closeModal");
+
+        form.addEventListener("submit", (e) => {
+            e.preventDefault();
+            const formData = new FormData(form);
+
+            fetch(scriptURL, { method: "POST", body: formData })
+                .then(() => {
+                    modal.classList.remove("hidden");
+                    form.reset();
+                })
+                .catch(() => {
+                    alert("Terjadi kesalahan. Coba lagi nanti!");
+                });
+        });
+
+        closeModal.addEventListener("click", () => {
+            modal.classList.add("hidden");
+        });
+    </script>
+
+</body>
+
+</html>

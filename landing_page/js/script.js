@@ -104,6 +104,20 @@ function initializeMobileMenu() {
     });
   }
 
+  // Toggle tim dan tutor mobile
+  // const mobileTimTutorBtn = document.getElementById('mobile-timtutor-btn');
+  // const mobileTimTutorMenu = document.getElementById('mobile-timtutor-menu');
+  // const mobileTimTutorIcon = document.getElementById('mobile-timtutor-icon');
+
+  // if (mobileTimTutorBtn && mobileTimTutorMenu) {
+  //   mobileTimTutorBtn.addEventListener('click', function () {
+  //     mobileTimTutorMenu.classList.toggle('hidden');
+  //     if (mobileTimTutorIcon) {
+  //       mobileTimTutorIcon.classList.toggle('rotate-180');
+  //     }
+  //   });
+  // }
+
   // Toggle jadwal menu in mobile
   const mobileJadwalBtn = document.getElementById('mobile-jadwal-btn');
   const mobileJadwalMenu = document.getElementById('mobile-jadwal-menu');
@@ -200,9 +214,6 @@ function initializeClassListPopup() {
     });
   });
 }
-
-
-
 
 // Fungsi untuk menampilkan modal jadwal
 function showJadwalModal(kelas) {

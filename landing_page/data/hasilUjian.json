@@ -70,5 +70,46 @@
                 "Keterangan": "LULUS"
             }
         ]
+    },
+    "NW 11": {
+        "Kode": "498713",
+        "PassingGrade": 85,
+        "Hasil": [
+            {
+                "Nama": "MUHAMMAD RIFKY AL ZYAHNUDDIN",
+                "Nilai": 86,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "NURUL ANNISA",
+                "Nilai": 65,
+                "Keterangan": "TIDAK LULUS"
+            },
+            {
+                "Nama": "AZIZAH CAHYA",
+                "Nilai": 85,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "TRI YASMIN",
+                "Nilai": 77,
+                "Keterangan": "TIDAK LULUS"
+            },
+            {
+                "Nama": "ARMIDA ADELIA",
+                "Nilai": 85,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "MEDINA NURKHASANAH",
+                "Nilai": 85,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "M. REZA LASAMA",
+                "Nilai": 68,
+                "Keterangan": "TIDAK LULUS"
+            }
+        ]
     }
 }

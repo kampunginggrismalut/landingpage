@@ -31,9 +31,7 @@
     },
     "SFZ D": {
         "Tutor": "Ms. Sitna",
-        "Senin": "07:10 (Malam)",
-        "Selasa": "07:10 (Malam)",
-        "Rabu": "07:10 (Malam)"
+        "Kamis": "07:30 (Malam)"
     },
     "SFZ E": {
         "Tutor": "Mr. Ardi",
@@ -47,22 +45,19 @@
         "Selasa": "08:40 (Malam)",
         "Rabu": "08:40 (Malam)"
     },
-    "NW 11": {
-        "Kamis": "07:30 (Malam, Ujian)"
-    },
     "NW 12": {
         "Tutor": "Ms. Nisya",
-        "Senin": "05:40 (Sore)",
-        "Selasa": "05:40 (Sore)",
-        "Rabu": "05:40 (Sore)",
-        "Kamis": "07:10 (Malam)"
-    },
-    "NW 13": {
-        "Tutor": "Mr./Ms. Unknown",
         "Senin": "07:10 (Malam)",
         "Selasa": "07:10 (Malam)",
         "Rabu": "07:10 (Malam)",
         "Kamis": "07:10 (Malam)"
+    },
+    "NW 13": {
+        "Tutor": "Mr./Ms. Unknown",
+        "Senin": "05:40 (Sore)",
+        "Selasa": "05:40 (Sore)",
+        "Rabu": "05:40 (Sore)",
+        "Kamis": "05:40 (Sore)"
     },
     "FTA 10": {
         "Tutor": "Mr. Zul",

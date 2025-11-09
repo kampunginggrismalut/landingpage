@@ -1,36 +1,41 @@
 {
-    "VICE": {
-        "Kode": "289741",
-        "PassingGrade": 85,
+    "SFZ D": {
+        "Kode": "238193",
+        "PassingGrade": 75,
         "Hasil": [
             {
-                "Nama": "ALGAZALI LANONGBUKA",
-                "Nilai": 88,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "ZAHIRUL UBAID MERADJI",
-                "Nilai": 92,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": " JOVIANA LOVYTHA",
-                "Nilai": 86,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "SRI ANDIRI ABDUL KATWIN",
-                "Nilai": 94,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "BAMA PUTRA HELMI",
+                "Nama": "PUTRI M. SULEMAN",
                 "Nilai": 87,
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "IBNU ARZZIL K. BAYAN",
-                "Nilai": 86,
+                "Nama": "ALIKA KESYA MAHENDRAT",
+                "Nilai": 85,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "SITI YULIANA PUTRI",
+                "Nilai": 81,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "HENI LUFIANA PARTIWI",
+                "Nilai": 83,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "NURSINA UMAGAPI",
+                "Nilai": 82,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "AHMAD SEDDIQ KABAU",
+                "Nilai": 85,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "RESTU IKBAL BODE",
+                "Nilai": 81,
                 "Keterangan": "LULUS"
             }
         ]

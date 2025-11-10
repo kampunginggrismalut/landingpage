@@ -239,40 +239,110 @@ function showJadwalModal(kelas) {
   scheduleContent.innerHTML = '';
 
   // Tampilkan nama tutor jika ada
-  if (jadwalKelas[kelas] && jadwalKelas[kelas].Tutor) {
-    namaTutor.textContent = `Tutor: ${jadwalKelas[kelas].Tutor}`;
-  } else {
-    namaTutor.textContent = '';
-  }
+  // if (jadwalKelas[kelas] && jadwalKelas[kelas].Tutor) {
+  //   namaTutor.textContent = `Tutor: ${jadwalKelas[kelas].Tutor}`;
+  // } else {
+  //   namaTutor.textContent = '';
+  // }
 
-  // Hanya menampilkan hari yang memiliki jadwal
+  // // Hanya menampilkan hari yang memiliki jadwal
+  // if (jadwalKelas[kelas]) {
+  //   for (const [day, time] of Object.entries(jadwalKelas[kelas])) {
+  //     if (day === "Tutor") continue;
+
+  //     const dayElement = document.createElement('div');
+  //     dayElement.className = 'schedule-day p-3 text-center min-w-[100px]';
+
+  //     const dayName = document.createElement('div');
+  //     dayName.className = 'font-bold text-blue-700 mb-2';
+  //     dayName.textContent = day.toUpperCase();
+
+  //     // Perbaikan: split yang benar untuk memisahkan waktu dan periode
+  //     const timeParts = time.split(' ');
+  //     const timeValue = document.createElement('div');
+  //     timeValue.className = 'text-xl font-semibold text-gray-800 mb-1';
+  //     timeValue.textContent = timeParts[0]; // Jam
+
+  //     const timePeriod = document.createElement('div');
+  //     timePeriod.className = 'time-badge text-sm inline-block';
+  //     timePeriod.textContent = timeParts.slice(1).join(' ');
+
+  //     dayElement.appendChild(dayName);
+  //     dayElement.appendChild(timeValue);
+  //     dayElement.appendChild(timePeriod);
+  //     scheduleContent.appendChild(dayElement);
+  //   }
+  // }
+
   if (jadwalKelas[kelas]) {
-    for (const [day, time] of Object.entries(jadwalKelas[kelas])) {
-      if (day === "Tutor") continue;
+    const dataKelas = jadwalKelas[kelas];
+
+    // --- Container utama jadwal ---
+    const container = document.createElement('div');
+    container.className = 'flex flex-col items-center justify-center text-center space-y-4';
+
+    // --- Bagian Tutor & Pengawas ---
+    const infoContainer = document.createElement('div');
+    infoContainer.className = 'text-gray-700 text-base';
+
+    if (dataKelas["Tutor"]) {
+      const tutorElement = document.createElement('div');
+      tutorElement.textContent = `Tutor: ${dataKelas["Tutor"]}`;
+      infoContainer.appendChild(tutorElement);
+    }
+
+    if (dataKelas["Pengawas"]) {
+      const pengawasElement = document.createElement('div');
+      pengawasElement.textContent = `Pengawas: ${dataKelas["Pengawas"]}`;
+      infoContainer.appendChild(pengawasElement);
+    }
+
+    container.appendChild(infoContainer);
+
+    // --- Bagian Hari dan Jam ---
+    const scheduleContainer = document.createElement('div');
+    scheduleContainer.className = 'flex flex-wrap justify-center gap-6';
+
+    for (const [day, time] of Object.entries(dataKelas)) {
+      if (["Tutor", "Pengawas", "Lokasi"].includes(day)) continue;
 
       const dayElement = document.createElement('div');
-      dayElement.className = 'schedule-day p-3 text-center min-w-[100px]';
+      dayElement.className = 'schedule-day text-center';
 
       const dayName = document.createElement('div');
       dayName.className = 'font-bold text-blue-700 mb-2';
       dayName.textContent = day.toUpperCase();
 
-      // Perbaikan: split yang benar untuk memisahkan waktu dan periode
       const timeParts = time.split(' ');
       const timeValue = document.createElement('div');
-      timeValue.className = 'text-xl font-semibold text-gray-800 mb-1';
-      timeValue.textContent = timeParts[0]; // Jam
+      timeValue.className = 'text-2xl font-semibold text-gray-800 mb-1';
+      timeValue.textContent = timeParts[0]; // jam
 
       const timePeriod = document.createElement('div');
-      timePeriod.className = 'time-badge text-sm inline-block';
-      timePeriod.textContent = timeParts.slice(1).join(' ');
+      timePeriod.className = 'text-sm text-gray-600 italic';
+      timePeriod.textContent = `(${timeParts.slice(1).join(' ')})`;
 
       dayElement.appendChild(dayName);
       dayElement.appendChild(timeValue);
       dayElement.appendChild(timePeriod);
-      scheduleContent.appendChild(dayElement);
+      scheduleContainer.appendChild(dayElement);
     }
+
+    container.appendChild(scheduleContainer);
+
+    // --- Bagian Lokasi Ujian ---
+    if (dataKelas["Lokasi"]) {
+      const lokasiElement = document.createElement('div');
+      lokasiElement.className = 'text-gray-700 mt-2';
+      lokasiElement.textContent = `Lokasi Ujian: ${dataKelas["Lokasi"]}`;
+      container.appendChild(lokasiElement);
+    }
+
+    // Tambahkan semua ke kontainer utama tampilan
+    scheduleContent.appendChild(container);
   }
+
+
 
   modal.classList.remove('hidden');
   setTimeout(() => {

@@ -40,38 +40,38 @@
             }
         ]
     },
-    "SFZ C": {
-        "Kode": "723182",
+    "SFZ E": {
+        "Kode": "796542",
         "PassingGrade": 75,
         "Hasil": [
             {
-                "Nama": "MEYLLA MAWADDAH",
-                "Nilai": 82,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "ULMA DWI LESTARI",
-                "Nilai": 94,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "RIZKIKA PUTRI FIRJIANA",
-                "Nilai": 93,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "NURUL INTAN BADIAH",
-                "Nilai": 86,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "HASTRIANI",
+                "Nama": "ANDINA FITRIYANI S. S.",
                 "Nilai": 85,
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "HILYAH RAFIQAH HAFID",
-                "Nilai": 93,
+                "Nama": "ZHAKIRA RAHMADANI IDRUS",
+                "Nilai": 88,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "VANI SAURANGI",
+                "Nilai": 92,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "FAUZI ADI",
+                "Nilai": 91,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "ANDHIRA",
+                "Nilai": 87,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "DEVIKA NINDI",
+                "Nilai": 88,
                 "Keterangan": "LULUS"
             }
         ]

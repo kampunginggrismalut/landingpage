@@ -76,44 +76,54 @@
             }
         ]
     },
-    "NW 11": {
-        "Kode": "149871",
+    "FTA 10": {
+        "Kode": "465813",
         "PassingGrade": 85,
         "Hasil": [
             {
-                "Nama": "MUHAMMAD RIFKY AL ZYAHNUDDIN",
+                "Nama": "RAMLAH ZAHWA NAILA SANGAJI",
+                "Nilai": 85,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "RASYA PUTRA ADITYA HUSEN",
+                "Nilai": 88,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "UMI INAYA",
+                "Nilai": 83,
+                "Keterangan": "TIDAK LULUS"
+            },
+            {
+                "Nama": "ASTRID HERAWATI MERADJI",
+                "Nilai": 81,
+                "Keterangan": "TIDAK LULUS"
+            },
+            {
+                "Nama": "NURSINTA WAKANG",
                 "Nilai": 86,
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "NURUL ANNISA",
-                "Nilai": 65,
-                "Keterangan": "TIDAK LULUS"
-            },
-            {
-                "Nama": "AZIZAH CAHYA",
+                "Nama": "RAMDANIWANTI MUTABIR",
                 "Nilai": 85,
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "TRI YASMIN",
-                "Nilai": 77,
-                "Keterangan": "TIDAK LULUS"
-            },
-            {
-                "Nama": "ARMIDA ADELIA",
-                "Nilai": 85,
+                "Nama": "MUTIARA HUSEN",
+                "Nilai": 87,
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "MEDINA NURKHASANAH",
-                "Nilai": 85,
+                "Nama": "NURUL SAFITRI",
+                "Nilai": 93,
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "M. REZA LASAMA",
-                "Nilai": 68,
-                "Keterangan": "TIDAK LULUS"
+                "Nama": "JULIYANTO ISKANDAR ALAM",
+                "Nilai": 86,
+                "Keterangan": "LULUS"
             }
         ]
     }

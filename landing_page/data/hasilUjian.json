@@ -40,38 +40,53 @@
             }
         ]
     },
-    "SFZ E": {
-        "Kode": "796542",
-        "PassingGrade": 75,
+    "NW 12": {
+        "Kode": "456871",
+        "PassingGrade": 85,
         "Hasil": [
             {
-                "Nama": "ANDINA FITRIYANI S. S.",
+                "Nama": "M. FAUDZIL NISAR",
                 "Nilai": 85,
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "ZHAKIRA RAHMADANI IDRUS",
-                "Nilai": 88,
+                "Nama": "KHAIRUNISA SOANGARE",
+                "Nilai": 93,
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "VANI SAURANGI",
-                "Nilai": 92,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "FAUZI ADI",
+                "Nama": "ALFIARA DETIRTA GAILEA",
                 "Nilai": 91,
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "ANDHIRA",
-                "Nilai": 87,
+                "Nama": "PUTRIWULANSARI J.",
+                "Nilai": 75,
+                "Keterangan": "TIDAK LULUS"
+            },
+            {
+                "Nama": "WAHYU RENES LAKOJANGA",
+                "Nilai": 76,
+                "Keterangan": "TIDAK LULUS"
+            },
+            {
+                "Nama": "ARIEL ALFAHRIZIY KUYLO",
+                "Nilai": 71,
+                "Keterangan": "TIDAK LULUS"
+            },
+            {
+                "Nama": "FIKRI BAUD",
+                "Nilai": 85,
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "DEVIKA NINDI",
-                "Nilai": 88,
+                "Nama": "MUHAMMAD ELGHIFARI",
+                "Nilai": 85,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "MUDASIR HI. SIDIK",
+                "Nilai": 90,
                 "Keterangan": "LULUS"
             }
         ]

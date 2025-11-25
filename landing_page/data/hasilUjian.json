@@ -1,92 +1,164 @@
 {
-    "SFZ D": {
+    "SFZ IF A": {
         "Kode": "238193",
-        "PassingGrade": 75,
+        "PassingGrade": 85,
         "Hasil": [
             {
-                "Nama": "PUTRI M. SULEMAN",
+                "Nama": "MUJADDID M. M. PATTY",
+                "Nilai": 90,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "PUTRI HAILDA AINUR RIFALA AL ISNAINI",
+                "Nilai": 96,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "ARYA ANDROMEDA PUTRA",
+                "Nilai": 92,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "HAMDANI",
+                "Nilai": 94,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "FAHRUR RIZKY A. IDHAR",
+                "Nilai": 97,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "ACHMAD HUSEIN A. Z. LAMBADO",
                 "Nilai": 87,
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "ALIKA KESYA MAHENDRAT",
-                "Nilai": 85,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "SITI YULIANA PUTRI",
-                "Nilai": 81,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "HENI LUFIANA PARTIWI",
-                "Nilai": 83,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "NURSINA UMAGAPI",
-                "Nilai": 82,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "AHMAD SEDDIQ KABAU",
-                "Nilai": 85,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "RESTU IKBAL BODE",
-                "Nilai": 81,
+                "Nama": "SRI NABILA FUTU",
+                "Nilai": 96,
                 "Keterangan": "LULUS"
             }
         ]
     },
-    "NW 12": {
+    "SFZ IF B": {
         "Kode": "456871",
         "PassingGrade": 85,
         "Hasil": [
             {
-                "Nama": "M. FAUDZIL NISAR",
+                "Nama": "TRI ROEHANDY SUMA",
+                "Nilai": 99,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "JAENUR RAHMAN MUHAMMAD",
+                "Nilai": 96,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "HASBULLAH RIFDHANI",
+                "Nilai": 95,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "ILHAM",
+                "Nilai": 96,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "MOCHTAR NAUFAL PUTRA M. S.",
+                "Nilai": 88,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "NURUL SAHPUTRI ARIFIN",
+                "Nilai": 85,
+                "Keterangan": "LULUS"
+            }
+        ]
+    },
+    "SFZ IF C": {
+        "Kode": "745951",
+        "PassingGrade": 85,
+        "Hasil": [
+            {
+                "Nama": "ALIYAH TASYA ASHIFAH",
+                "Nilai": 89,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "SALSABILAH GAILA QUR'ANI",
                 "Nilai": 85,
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "KHAIRUNISA SOANGARE",
-                "Nilai": 93,
+                "Nama": "APRIYANTI TAUDA",
+                "Nilai": 89,
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "ALFIARA DETIRTA GAILEA",
-                "Nilai": 91,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "PUTRIWULANSARI J.",
-                "Nilai": 75,
-                "Keterangan": "TIDAK LULUS"
-            },
-            {
-                "Nama": "WAHYU RENES LAKOJANGA",
-                "Nilai": 76,
-                "Keterangan": "TIDAK LULUS"
-            },
-            {
-                "Nama": "ARIEL ALFAHRIZIY KUYLO",
-                "Nilai": 71,
-                "Keterangan": "TIDAK LULUS"
-            },
-            {
-                "Nama": "FIKRI BAUD",
+                "Nama": "SITI NURAYU",
                 "Nilai": 85,
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "MUHAMMAD ELGHIFARI",
+                "Nama": "JULFISKA USMAN",
                 "Nilai": 85,
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "MUDASIR HI. SIDIK",
-                "Nilai": 90,
+                "Nama": "GITA AYU LESTARI RAKIM",
+                "Nilai": 87,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "WIDYA ZHAFIRA S. ABUBAKAR",
+                "Nilai": 87,
+                "Keterangan": "LULUS"
+            }
+        ]
+    },
+    "SFZ F": {
+        "Kode": "265498",
+        "PassingGrade": 85,
+        "Hasil": [
+            {
+                "Nama": "RENDY ARYA TOMAGOLA",
+                "Nilai": 96,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "SUKMAWATI M. HI. UMAR",
+                "Nilai": 96,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "ABDUL AZIZ ANDI",
+                "Nilai": 89,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "NUR ELISA PUTRI",
+                "Nilai": 96,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "MIFTAH AHMAD",
+                "Nilai": 95,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "HERAWANA",
+                "Nilai": 89,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "IMELDA SAPUTRY DJALIL",
+                "Nilai": 95,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "MEYDA SHAFIRAH",
+                "Nilai": 92,
                 "Keterangan": "LULUS"
             }
         ]

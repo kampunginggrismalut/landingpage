@@ -1,42 +1,37 @@
 {
-    "SFZ IF A": {
-        "Kode": "238193",
+    "NW 13": {
+        "Kode": "543457",
         "PassingGrade": 85,
         "Hasil": [
             {
-                "Nama": "MUJADDID M. M. PATTY",
-                "Nilai": 90,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "PUTRI HAILDA AINUR RIFALA AL ISNAINI",
+                "Nama": "NURUL INTAN BADIAH",
                 "Nilai": 96,
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "ARYA ANDROMEDA PUTRA",
-                "Nilai": 92,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "HAMDANI",
+                "Nama": "ULMA DWI LESTARI",
                 "Nilai": 94,
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "FAHRUR RIZKY A. IDHAR",
-                "Nilai": 97,
+                "Nama": "RIZKIKA PUTRI RIRJIANA",
+                "Nilai": 85,
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "ACHMAD HUSEIN A. Z. LAMBADO",
-                "Nilai": 87,
+                "Nama": "MEYLLA MAWADDAH SAMSUDIN",
+                "Nilai": 79,
+                "Keterangan": "TIDAK LULUS"
+            },
+            {
+                "Nama": "HILYAH RAFIQAH",
+                "Nilai": 85,
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "SRI NABILA FUTU",
-                "Nilai": 96,
-                "Keterangan": "LULUS"
+                "Nama": "HASTRIANI",
+                "Nilai": 78,
+                "Keterangan": "TIDAK LULUS"
             }
         ]
     },

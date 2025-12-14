@@ -5,17 +5,23 @@
         "Kamis": "04:45 Sore",
         "Sabtu": "04:45 Sore"
     },
-    "VICE - A": {
-        "Tutor": "Ms. Nuy",
-        "Selasa": "05:40 Sore",
+    "VICE NW": {
+        "Tutor": "Ms. Amertha",
+        "Senin": "05:40 Sore",
         "Rabu": "05:40 Sore",
-        "Kamis": "05:40 Sore"
+        "Jumat": "05:40 Sore"
+    },
+    "VICE FTA": {
+        "Tutor": "Ms. Resty",
+        "Senin": "05:40 Sore",
+        "Rabu": "05:40 Sore",
+        "Jumat": "05:40 Sore"
     },
     "SFZ G": {
         "Tutor": "Mr. Dwi",
+        "Senin": "07:10 Malam",
         "Selasa": "07:10 Malam",
-        "Rabu": "07:10 Malam",
-        "Kamis": "07:10 Malam"
+        "Rabu": "07:10 Malam"
     },
     "NW 14": {
         "Tutor": "Mr. Zul",
@@ -32,31 +38,31 @@
         "Kamis": "05:40 Sore"
     },
     "NW 16": {
-        "Tutor": "Ms. Nisya",
+        "Tutor": "Mr. Ardi",
         "Senin": "08:40 Malam",
         "Selasa": "08:40 Malam",
         "Rabu": "08:40 Malam",
-        "Kamis": "08:40 Malam"
+        "Kamis": "07:10 Malam"
     },
     "NW 17": {
         "Tutor": "Mr. Agil",
+        "Senin": "08:40 Malam",
+        "Selasa": "08:40 Malam",
+        "Rabu": "08:40 Malam",
+        "Kamis": "07:10 Malam"
+    },
+    "NW 18": {
+        "Tutor": "Ms. Tasya",
         "Senin": "07:10 Malam",
         "Selasa": "07:10 Malam",
         "Rabu": "07:10 Malam",
         "Kamis": "07:10 Malam"
     },
-    "NW 18": {
-        "Tutor": "Ms. Tasya",
-        "Senin": "08:40 Malam",
-        "Selasa": "08:40 Malam",
-        "Rabu": "08:40 Malam",
-        "Kamis": "08:40 Malam"
-    },
     "FTA 11": {
         "Tutor": "Mr. Agil",
-        "Selasa": "08:40 Malam",
-        "Rabu": "08:40 Malam",
-        "Kamis": "08:40 Malam"
+        "Senin": "07:10 Malam",
+        "Selasa": "07:10 Malam",
+        "Rabu": "07:10 Malam"
     },
     "PI 3": {
         "Tutor": "Sir Ipox",
@@ -64,13 +70,13 @@
     },
     "PI 4": {
         "Tutor": "Sir Ipox",
-        "Ujian": "Pertama"
+        "Ujian": "Menunggu Jadwal"
     },
     "PI 5": {
         "Tutor": "Sir Ipox",
-        "Senin": "05:40 Sore",
-        "Selasa": "05:40 Sore",
-        "Rabu": "05:40 Sore",
-        "Kamis": "05:40 Sore"
+        "Senin": "08:40 Malam",
+        "Selasa": "08:40 Malam",
+        "Rabu": "08:40 Malam",
+        "Kamis": "07:10 Malam"
     }
 }

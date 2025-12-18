@@ -18,24 +18,16 @@
         "Jumat": "05:40 Sore"
     },
     "SFZ G": {
-        "Tutor": "Mr. Dwi",
-        "Senin": "07:10 Malam",
-        "Selasa": "07:10 Malam",
-        "Rabu": "07:10 Malam"
+        "Pengawas": "Mr. Dwi",
+        "Sabtu": "06:00 Sore, Ujian"
     },
     "NW 14": {
-        "Tutor": "Mr. Zul",
-        "Senin": "07:10 Malam",
-        "Selasa": "07:10 Malam",
-        "Rabu": "07:10 Malam",
-        "Kamis": "07:10 Malam"
+        "Pengawas": "Mr. Zul",
+        "Senin, 5 Januari 2026": "07:10 Malam"
     },
     "NW 15": {
-        "Tutor": "Mr. Ardi",
-        "Senin": "05:40 Sore",
-        "Selasa": "05:40 Sore",
-        "Rabu": "05:40 Sore",
-        "Kamis": "05:40 Sore"
+        "Pengawas": "Mr. Ardi",
+        "Senin, 5 Januari 2026": "07:10 Malam"
     },
     "NW 16": {
         "Tutor": "Mr. Ardi",
@@ -59,10 +51,8 @@
         "Kamis": "07:10 Malam"
     },
     "FTA 11": {
-        "Tutor": "Mr. Agil",
-        "Senin": "07:10 Malam",
-        "Selasa": "07:10 Malam",
-        "Rabu": "07:10 Malam"
+        "Pengawas": "Mr. Agil",
+        "Senin, 5 Januari 2026": "07:10 Malam"
     },
     "PI 3": {
         "Tutor": "Sir Ipox",

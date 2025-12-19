@@ -1,21 +1,15 @@
 {
     "Kelas SD (Mayor 1, Mayor 2, dan Mayor 3)": {
         "Tutor": "Ms. Yana, Ms. Cica, dan Ms. Tita",
-        "Selasa": "04:45 Sore",
-        "Kamis": "04:45 Sore",
-        "Sabtu": "04:45 Sore"
+        "Status": "Libur"
     },
     "VICE NW": {
         "Tutor": "Ms. Amertha",
-        "Senin": "05:40 Sore",
-        "Rabu": "05:40 Sore",
-        "Jumat": "05:40 Sore"
+        "Status": "Libur"
     },
     "VICE FTA": {
         "Tutor": "Ms. Resty",
-        "Senin": "05:40 Sore",
-        "Rabu": "05:40 Sore",
-        "Jumat": "05:40 Sore"
+        "Status": "Libur"
     },
     "SFZ G": {
         "Pengawas": "Mr. Dwi",
@@ -31,24 +25,15 @@
     },
     "NW 16": {
         "Tutor": "Mr. Ardi",
-        "Senin": "08:40 Malam",
-        "Selasa": "08:40 Malam",
-        "Rabu": "08:40 Malam",
-        "Kamis": "07:10 Malam"
+        "Status": "Libur"
     },
     "NW 17": {
         "Tutor": "Mr. Agil",
-        "Senin": "08:40 Malam",
-        "Selasa": "08:40 Malam",
-        "Rabu": "08:40 Malam",
-        "Kamis": "07:10 Malam"
+        "Status": "Libur"
     },
     "NW 18": {
         "Tutor": "Ms. Tasya",
-        "Senin": "07:10 Malam",
-        "Selasa": "07:10 Malam",
-        "Rabu": "07:10 Malam",
-        "Kamis": "07:10 Malam"
+        "Status": "Libur"
     },
     "FTA 11": {
         "Pengawas": "Mr. Agil",
@@ -64,9 +49,6 @@
     },
     "PI 5": {
         "Tutor": "Sir Ipox",
-        "Senin": "08:40 Malam",
-        "Selasa": "08:40 Malam",
-        "Rabu": "08:40 Malam",
-        "Kamis": "07:10 Malam"
+        "Status": "Libur"
     }
 }

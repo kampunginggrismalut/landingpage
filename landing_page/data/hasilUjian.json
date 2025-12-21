@@ -1,51 +1,41 @@
 {
-    "FTA 10": {
+    "SFZ G": {
         "Kode": "465813",
-        "PassingGrade": 85,
+        "PassingGrade": 75,
         "Hasil": [
             {
-                "Nama": "RAMLAH ZAHWA NAILA SANGAJI",
-                "Nilai": 85,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "RASYA PUTRA ADITYA HUSEN",
-                "Nilai": 88,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "UMI INAYA",
+                "Nama": "HUMAIRATULHIJJAH",
                 "Nilai": 83,
-                "Keterangan": "TIDAK LULUS"
-            },
-            {
-                "Nama": "ASTRID HERAWATI MERADJI",
-                "Nilai": 81,
-                "Keterangan": "TIDAK LULUS"
-            },
-            {
-                "Nama": "NURSINTA WAKANG",
-                "Nilai": 86,
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "RAMDANIWANTI MUTABIR",
-                "Nilai": 85,
+                "Nama": "MEISYA WINDA ZULAYKA",
+                "Nilai": 94,
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "MUTIARA HUSEN",
+                "Nama": "M. ROJAN MAHIRI",
+                "Nilai": 89,
+                "Keterangan": "TIDAK LULUS"
+            },
+            {
+                "Nama": "MUHAMMAD FARHAN DENI",
                 "Nilai": 87,
+                "Keterangan": "TIDAK LULUS"
+            },
+            {
+                "Nama": "BIMA PRASETYO TUKUBOYA",
+                "Nilai": 89,
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "NURUL SAFITRI",
-                "Nilai": 93,
+                "Nama": "SITI FADILA",
+                "Nilai": 81,
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "JULIYANTO ISKANDAR ALAM",
-                "Nilai": 86,
+                "Nama": "MOH. SATRIA S. HAYA",
+                "Nilai": 85,
                 "Keterangan": "LULUS"
             }
         ]

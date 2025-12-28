@@ -45,13 +45,50 @@
             <div class="hidden md:flex space-x-8 items-center">
                 <a href="#beranda" class="text-gray-600 hover:text-blue-500 transition">Beranda</a>
                 <a href="#program" class="text-gray-600 hover:text-blue-500 transition">Program</a>
+
+                <!-- Dropdown student -->
+                <div class="relative group">
+                    <!-- Button -->
+                    <button class="text-gray-600 hover:text-blue-500 text-center inline-flex items-center"
+                        type="button">
+                        Siswa
+                        <svg class="w-4 h-4 ml-2 transition-transform" xmlns="http://www.w3.org/2000/svg" fill="none"
+                            viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                        </svg>
+                    </button>
+
+                    <!-- Dropdown menu -->
+                    <ul class="absolute left-0 mt-2 w-48 bg-white border border-gray-200 rounded-md shadow-md
+                                   opacity-0 invisible
+                                   group-hover:opacity-100 group-hover:visible
+                                   transition-all duration-150">
+                        <li>
+                            <a href="hasil-ujian.html"
+                                class="block px-4 py-2 text-gray-700 hover:bg-sky-200 hover:text-blue-500">Hasil
+                                Ujian</a>
+                        </li>
+                        <li>
+                            <a href="#" id="open-classlist"
+                                class="block px-4 py-2 text-gray-700 hover:bg-sky-200 hover:text-blue-500">
+                                Jadwal Kelas
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://presensikimu.web.app"
+                                class="block px-4 py-2 text-gray-700 hover:bg-sky-200 hover:text-blue-500">
+                                Presensi
+                            </a>
+                        </li>
+                    </ul>
+                </div>
                 <!-- Student Dropdown -->
-                <button id="dropdownHoverButton" data-dropdown-toggle="dropdownHover" data-dropdown-trigger="hover"
+                <!-- <button id="dropdownHoverButton" data-dropdown-toggle="dropdownHover" data-dropdown-trigger="hover"
                     class="text-gray-600 hover:text-blue-500 text-center inline-flex items-center" type="button">Siswa
-                </button>
+                </button> -->
 
                 <!-- Dropdown menu student -->
-                <div id="dropdownHover"
+                <!-- <div id="dropdownHover"
                     class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow-sm w-44 dark:bg-gray-700">
                     <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="dropdownHoverButton">
                         <li>
@@ -70,7 +107,7 @@
                                 class="dropdown-item has-submenu block px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600">Presensi</a>
                         </li>
                     </ul>
-                </div>
+                </div> -->
                 <a href="https://timdantutor.web.app" class="text-gray-600 hover:text-blue-500 transition">Tim &
                     Tutor</a>
             </div>

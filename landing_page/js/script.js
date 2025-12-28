@@ -50,33 +50,33 @@ function initializeModalEvents() {
 }
 
 // Inisialisasi dropdown desktop
-function initializeDesktopDropdown() {
-  const dropdownButton = document.querySelector('[data-dropdown-toggle="dropdownHover"]');
-  const dropdownMenu = document.getElementById('dropdownHover');
+// function initializeDesktopDropdown() {
+//   const dropdownButton = document.querySelector('[data-dropdown-toggle="dropdownHover"]');
+//   const dropdownMenu = document.getElementById('dropdownHover');
 
-  if (dropdownButton && dropdownMenu) {
-    // Handler untuk hover (desktop)
-    dropdownButton.addEventListener('mouseenter', function () {
-      dropdownMenu.classList.remove('hidden');
-    });
+//   if (dropdownButton && dropdownMenu) {
+//     // Handler untuk hover (desktop)
+//     dropdownButton.addEventListener('mouseenter', function () {
+//       dropdownMenu.classList.remove('hidden');
+//     });
 
-    dropdownButton.addEventListener('mouseleave', function () {
-      setTimeout(() => {
-        dropdownMenu.classList.add('hidden');
-      }, 300);
-    });
+//     dropdownButton.addEventListener('mouseleave', function () {
+//       setTimeout(() => {
+//         dropdownMenu.classList.add('hidden');
+//       }, 300);
+//     });
 
-    dropdownMenu.addEventListener('mouseenter', function () {
-      dropdownMenu.classList.remove('hidden');
-    });
+//     dropdownMenu.addEventListener('mouseenter', function () {
+//       dropdownMenu.classList.remove('hidden');
+//     });
 
-    dropdownMenu.addEventListener('mouseleave', function () {
-      setTimeout(() => {
-        dropdownMenu.classList.add('hidden');
-      }, 300);
-    });
-  }
-}
+//     dropdownMenu.addEventListener('mouseleave', function () {
+//       setTimeout(() => {
+//         dropdownMenu.classList.add('hidden');
+//       }, 300);
+//     });
+//   }
+// }
 
 // Mobile menu functionality
 function initializeMobileMenu() {

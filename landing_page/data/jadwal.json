@@ -1,43 +1,54 @@
 {
     "Kelas SD (Mayor 1, Mayor 2, dan Mayor 3)": {
         "Tutor": "Ms. Yana, Ms. Cica, dan Ms. Tita",
-        "Status": "Libur"
+        "Selasa": "04:45 Sore",
+        "Kamis": "04:45 Sore",
+        "Sabtu": "04:45 Sore"
     },
     "VICE NW": {
         "Tutor": "Ms. Amertha",
-        "Status": "Libur"
+        "Selasa": "07:10 Malam",
+        "Rabu": "07:10 Malam",
+        "Kamis": "07:10 Malam"
     },
     "VICE FTA": {
         "Tutor": "Ms. Resty",
-        "Status": "Libur"
-    },
-    "SFZ G": {
-        "Pengawas": "Mr. Dwi",
-        "Sabtu": "06:00 Sore, Ujian"
+        "Selasa": "07:10 Malam",
+        "Rabu": "07:10 Malam",
+        "Kamis": "07:10 Malam"
     },
     "NW 14": {
         "Pengawas": "Mr. Zul",
-        "Senin, 5 Januari 2026": "07:10 Malam"
+        "(Ujian) Senin, 5 Januari 2026": "08:40 Malam"
     },
     "NW 15": {
         "Pengawas": "Mr. Ardi",
-        "Senin, 5 Januari 2026": "07:10 Malam"
+        "(Ujian) Senin, 5 Januari 2026": "08:40 Malam"
     },
     "NW 16": {
         "Tutor": "Mr. Ardi",
-        "Status": "Libur"
+        "Senin": "07:10 Malam",
+        "Selasa": "08:40 Malam",
+        "Rabu": "08:40 Malam",
+        "Kamis": "08:40 Malam"
     },
     "NW 17": {
         "Tutor": "Mr. Agil",
-        "Status": "Libur"
+        "Senin": "07:10 Malam",
+        "Selasa": "08:40 Malam",
+        "Rabu": "08:40 Malam",
+        "Kamis": "08:40 Malam"
     },
     "NW 18": {
         "Tutor": "Ms. Tasya",
-        "Status": "Libur"
+        "Senin": "07:10 Malam",
+        "Selasa": "08:40 Malam",
+        "Rabu": "08:40 Malam",
+        "Kamis": "08:40 Malam"
     },
     "FTA 11": {
         "Pengawas": "Mr. Agil",
-        "Senin, 5 Januari 2026": "07:10 Malam"
+        "(Ujian) Selasa, 6 Januari 2026": "07:10 Malam"
     },
     "PI 3": {
         "Tutor": "Sir Ipox",
@@ -49,6 +60,6 @@
     },
     "PI 5": {
         "Tutor": "Sir Ipox",
-        "Status": "Libur"
+        "Status": "Menunggu"
     }
 }

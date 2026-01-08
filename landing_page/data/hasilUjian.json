@@ -1,41 +1,82 @@
 {
-    "SFZ G": {
+    "NW 14": {
         "Kode": "465813",
-        "PassingGrade": 75,
+        "PassingGrade": 85,
         "Hasil": [
             {
-                "Nama": "HUMAIRATULHIJJAH",
-                "Nilai": 83,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "MEISYA WINDA ZULAYKA",
-                "Nilai": 94,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "M. ROJAN MAHIRI",
-                "Nilai": 89,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "MUHAMMAD FARHAN DENI",
-                "Nilai": 87,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "BIMA PRASETYO TUKUBOYA",
-                "Nilai": 89,
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "SITI FADILA",
+                "Nama": "AHMAD SEDDIQ KABAU",
                 "Nilai": 81,
+                "Keterangan": "TIDAK LULUS"
+            },
+            {
+                "Nama": "M. REZA LASAMA",
+                "Nilai": 97,
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "MOH. SATRIA S. HAYA",
+                "Nama": "TRI YASMIN",
+                "Nilai": 97,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "PUTRI M. SULEMAN",
+                "Nilai": 96,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "SITI YULIANA PUTRI",
+                "Nilai": 89,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "ALIKA KEYSHA MAHENDRAT",
                 "Nilai": 85,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "NURSINA UMAGAPI",
+                "Nilai": 88,
+                "Keterangan": "LULUS"
+            }
+        ]
+    },
+    "NW 15": {
+        "Kode": "467165",
+        "PassingGrade": 85,
+        "Hasil": [
+            {
+                "Nama": "AGNI TRIVANI SAURANGI",
+                "Nilai": 90,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "ANDINA FITRIYANI S. S.",
+                "Nilai": 72,
+                "Keterangan": "TIDAK LULUS"
+            },
+            {
+                "Nama": "DEVIKA NINDI",
+                "Nilai": 89,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "ZHAKIRA RAHMADANI IDRUS",
+                "Nilai": 77,
+                "Keterangan": "TIDAK LULUS"
+            },
+            {
+                "Nama": "ANDHIRA",
+                "Nilai": 85,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "FAUZI ADI",
+                "Nilai": 92,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "SALSABILA SUKARDI",
+                "Nilai": 90,
                 "Keterangan": "LULUS"
             }
         ]

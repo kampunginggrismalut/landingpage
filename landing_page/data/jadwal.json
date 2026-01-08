@@ -1,9 +1,9 @@
 {
     "Kelas SD (Mayor 1, Mayor 2, dan Mayor 3)": {
         "Tutor": "Ms. Yana, Ms. Cica, dan Ms. Tita",
-        "Selasa": "04:45 Sore",
-        "Kamis": "04:45 Sore",
-        "Sabtu": "04:45 Sore"
+        "Selasa": "04:50 Sore",
+        "Kamis": "04:50 Sore",
+        "Sabtu": "04:50 Sore"
     },
     "VICE NW": {
         "Tutor": "Ms. Amertha",
@@ -16,14 +16,6 @@
         "Selasa": "07:10 Malam",
         "Rabu": "07:10 Malam",
         "Kamis": "07:10 Malam"
-    },
-    "NW 14": {
-        "Pengawas": "Mr. Zul",
-        "(Ujian) Rabu, 7 Januari 2026": "08:40 Malam"
-    },
-    "NW 15": {
-        "Pengawas": "Mr. Ardi",
-        "(Ujian) Rabu, 7 Januari 2026": "08:40 Malam"
     },
     "NW 16": {
         "Tutor": "Mr. Ardi",

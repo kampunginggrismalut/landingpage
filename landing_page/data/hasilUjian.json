@@ -80,5 +80,46 @@
                 "Keterangan": "LULUS"
             }
         ]
+    },
+    "FTA 11": {
+        "Kode": "546764",
+        "PassingGrade": 85,
+        "Hasil": [
+            {
+                "Nama": "ARMIDA ADELIA PUTRI",
+                "Nilai": 84,
+                "Keterangan": "TIDAK LULUS"
+            },
+            {
+                "Nama": "M. RIFKY ALZYAHNUDDIN",
+                "Nilai": 84,
+                "Keterangan": "TIDAK LULUS"
+            },
+            {
+                "Nama": "MUHAMMAD ELGHIFARI",
+                "Nilai": 83,
+                "Keterangan": "TIDAK LULUS"
+            },
+            {
+                "Nama": "MUDASIR HI. SIDIK",
+                "Nilai": 81,
+                "Keterangan": "TIDAK LULUS"
+            },
+            {
+                "Nama": "KHAIRUNNISA SOANGARE",
+                "Nilai": 81,
+                "Keterangan": "TIDAK LULUS"
+            },
+            {
+                "Nama": "M. FAUDZIL NISAR",
+                "Nilai": 78,
+                "Keterangan": "TIDAK LULUS"
+            },
+            {
+                "Nama": "ALFIARA DETIRTA GAILEA",
+                "Nilai": 80,
+                "Keterangan": "TIDAK LULUS"
+            }
+        ]
     }
 }

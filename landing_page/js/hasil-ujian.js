@@ -57,7 +57,11 @@ document.addEventListener("DOMContentLoaded", async () => {
                     pgElement.textContent = `Passing Grade : ${data[kelas].PassingGrade}`;
                 }
 
-                data[kelas].Hasil.forEach(siswa => {
+                const hasilSorted = [...data[kelas].Hasil].sort((a, b) =>
+                    String(a.Nama ?? "").localeCompare(String(b.Nama ?? ""), "id", { sensitivity: "base" })
+                );
+
+                hasilSorted.forEach(siswa => {
                     hasilContent.innerHTML += `
           <tr>
             <td class="px-4 py-2 border text-left">${siswa.Nama}</td>

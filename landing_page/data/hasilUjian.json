@@ -1,123 +1,132 @@
 {
-    "NW 14": {
+    "": {
         "Kode": "465813",
         "PassingGrade": 85,
         "Hasil": [
             {
                 "Nama": "AHMAD SEDDIQ KABAU",
                 "Nilai": 81,
+                "Kelas": "NW 14",
                 "Keterangan": "TIDAK LULUS"
             },
             {
                 "Nama": "M. REZA LASAMA",
                 "Nilai": 97,
+                "Kelas": "NW 14",
                 "Keterangan": "LULUS"
             },
             {
                 "Nama": "TRI YASMIN",
                 "Nilai": 97,
+                "Kelas": "NW 14",
                 "Keterangan": "LULUS"
             },
             {
                 "Nama": "PUTRI M. SULEMAN",
                 "Nilai": 96,
+                "Kelas": "NW 14",
                 "Keterangan": "LULUS"
             },
             {
                 "Nama": "SITI YULIANA PUTRI",
                 "Nilai": 89,
+                "Kelas": "NW 14",
                 "Keterangan": "LULUS"
             },
             {
                 "Nama": "ALIKA KEYSHA MAHENDRAT",
                 "Nilai": 85,
+                "Kelas": "NW 14",
                 "Keterangan": "LULUS"
             },
             {
                 "Nama": "NURSINA UMAGAPI",
                 "Nilai": 88,
+                "Kelas": "NW 14",
                 "Keterangan": "LULUS"
-            }
-        ]
-    },
-    "NW 15": {
-        "Kode": "467165",
-        "PassingGrade": 85,
-        "Hasil": [
+            },
             {
                 "Nama": "AGNI TRIVANI SAURANGI",
                 "Nilai": 90,
+                "Kelas": "NW 15",
                 "Keterangan": "LULUS"
             },
             {
                 "Nama": "ANDINA FITRIYANI S. S.",
                 "Nilai": 72,
+                "Kelas": "NW 15",
                 "Keterangan": "TIDAK LULUS"
             },
             {
                 "Nama": "DEVIKA NINDI",
                 "Nilai": 89,
+                "Kelas": "NW 15",
                 "Keterangan": "LULUS"
             },
             {
                 "Nama": "ZHAKIRA RAHMADANI IDRUS",
                 "Nilai": 77,
+                "Kelas": "NW 15",
                 "Keterangan": "TIDAK LULUS"
             },
             {
                 "Nama": "ANDHIRA",
                 "Nilai": 85,
+                "Kelas": "NW 15",
                 "Keterangan": "LULUS"
             },
             {
                 "Nama": "FAUZI ADI",
                 "Nilai": 92,
+                "Kelas": "NW 15",
                 "Keterangan": "LULUS"
             },
             {
                 "Nama": "SALSABILA SUKARDI",
                 "Nilai": 90,
+                "Kelas": "NW 15",
                 "Keterangan": "LULUS"
-            }
-        ]
-    },
-    "FTA 11": {
-        "Kode": "546764",
-        "PassingGrade": 85,
-        "Hasil": [
+            },
             {
                 "Nama": "ARMIDA ADELIA PUTRI",
                 "Nilai": 84,
+                "Kelas": "FTA 11",
                 "Keterangan": "TIDAK LULUS"
             },
             {
                 "Nama": "M. RIFKY ALZYAHNUDDIN",
                 "Nilai": 84,
+                "Kelas": "FTA 11",
                 "Keterangan": "TIDAK LULUS"
             },
             {
                 "Nama": "MUHAMMAD ELGHIFARI",
                 "Nilai": 83,
+                "Kelas": "FTA 11",
                 "Keterangan": "TIDAK LULUS"
             },
             {
                 "Nama": "MUDASIR HI. SIDIK",
                 "Nilai": 81,
+                "Kelas": "FTA 11",
                 "Keterangan": "TIDAK LULUS"
             },
             {
                 "Nama": "KHAIRUNNISA SOANGARE",
                 "Nilai": 81,
+                "Kelas": "FTA 11",
                 "Keterangan": "TIDAK LULUS"
             },
             {
                 "Nama": "M. FAUDZIL NISAR",
                 "Nilai": 78,
+                "Kelas": "FTA 11",
                 "Keterangan": "TIDAK LULUS"
             },
             {
                 "Nama": "ALFIARA DETIRTA GAILEA",
                 "Nilai": 80,
+                "Kelas": "FTA 11",
                 "Keterangan": "TIDAK LULUS"
             }
         ]

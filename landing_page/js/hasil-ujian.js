@@ -10,8 +10,32 @@ document.addEventListener("DOMContentLoaded", async () => {
     const closeBtn = document.getElementById("closeModalBtn");
     const hasilContent = document.getElementById("hasilContent");
     const modalTitle = document.getElementById("modalTitle");
+    const tableWrapper = document.getElementById("hasilTableWrapper");
 
     const data = await fetchHasilUjian();
+
+    const updateTableScroll = () => {
+        if (!tableWrapper || !hasilContent) return;
+
+        const rows = hasilContent.querySelectorAll("tr");
+        if (rows.length <= 10) {
+            tableWrapper.style.maxHeight = "";
+            tableWrapper.scrollTop = 0;
+            return;
+        }
+
+        const firstRow = rows[0];
+        const rowHeight = firstRow.getBoundingClientRect().height;
+        const table = tableWrapper.querySelector("table");
+        const headerHeight = table?.tHead?.getBoundingClientRect().height ?? 0;
+
+        if (rowHeight > 0) {
+            tableWrapper.style.maxHeight = `${Math.ceil(headerHeight + rowHeight * 10)}px`;
+        } else {
+            tableWrapper.style.maxHeight = "60vh";
+        }
+        tableWrapper.scrollTop = 0;
+    };
 
     btnCek.addEventListener("click", () => {
         const kode = kodeInput.value.trim().toLowerCase();
@@ -38,11 +62,13 @@ document.addEventListener("DOMContentLoaded", async () => {
           <tr>
             <td class="px-4 py-2 border text-left">${siswa.Nama}</td>
             <td class="px-4 py-2 border text-left">${siswa.Nilai}</td>
+            <td class="px-4 py-2 border text-left">${siswa.Kelas}</td>
             <td class="px-4 py-2 border text-left">${siswa.Keterangan}</td>
           </tr>`;
                 });
 
                 modal.classList.remove("hidden");
+                updateTableScroll();
                 break; // stop loop kalau sudah ketemu
             }
         }

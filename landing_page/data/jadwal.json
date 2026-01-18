@@ -1,21 +1,21 @@
 {
     "Kelas SD (Mayor 1, Mayor 2, dan Mayor 3)": {
         "Tutor": "Ms. Yana, Ms. Cica, dan Ms. Tita",
-        "Selasa": "04:50 Sore",
-        "Kamis": "04:50 Sore",
-        "Sabtu": "04:50 Sore"
+        "Selasa": "04:45 Sore",
+        "Kamis": "04:45 Sore",
+        "Sabtu": "04:45 Sore"
     },
     "VICE NW": {
-        "Tutor": "Ms. Amertha",
+        "Tutor": "Ms. Tita",
         "Selasa": "08:40 Malam",
-        "Kamis": "08:40 Malam",
-        "Sabtu": "08:40 Malam"
+        "Rabu": "08:40 Malam",
+        "Kamis": "08:40 Malam"
     },
     "VICE FTA": {
         "Tutor": "Ms. Resty",
-        "Senin": "07:10 Malam",
-        "Selasa": "07:10 Malam",
-        "Kamis": "08:40 Malam"
+        "Senin": "05:30 Sore",
+        "Rabu": "05:30 Sore",
+        "Jumat": "05:30 Sore"
     },
     "Level 1": {
         "Tutor": "Mr. Zul",
@@ -30,19 +30,38 @@
         "Rabu": "07:10 Malam",
         "Kamis": "07:10 Malam"
     },
-    "NW 16": {
+    "Level 2A": {
         "Tutor": "Mr. Ardi",
         "Senin": "08:40 Malam",
         "Selasa": "08:40 Malam",
         "Rabu": "08:40 Malam",
+        "Kamis": "08:40 Malam"
+    },
+    "Level 3A": {
+        "Tutor": "Mr. Zul",
+        "Senin": "07:10 Malam",
+        "Selasa": "07:10 Malam",
+        "Rabu": "07:10 Malam"
+    },
+    "Level 3B": {
+        "Tutor": "Mr. Agil",
+        "Senin": "08:40 Malam",
+        "Rabu": "08:40 Malam",
         "Kamis": "07:10 Malam"
+    },
+    "SFZ 1": {
+        "Tutor": "Mr. Dwi",
+        "Selasa": "08:40 Malam",
+        "Rabu": "08:40 Malam",
+        "Kamis": "08:40 Malam"
+    },
+    "NW 16": {
+        "Pengawas": "Mr. Ardi",
+        "Senin": "Ujian 08:40 Malam"
     },
     "NW 17": {
         "Tutor": "Mr. Agil",
-        "Senin": "08:40 Malam",
-        "Selasa": "08:40 Malam",
-        "Rabu": "08:40 Malam",
-        "Kamis": "07:10 Malam"
+        "Kamis": "Ujian 07:10 Malam"
     },
     "PI 3": {
         "Tutor": "Sir Ipox",

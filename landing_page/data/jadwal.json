@@ -8,18 +8,8 @@
     "VICE NW": {
         "Tutor": "Ms. Tita",
         "Selasa": "08:40 Malam",
-        "Kamis": "08:40 Malam",
-        "Jumat": "08:40 Malam"
-    },
-    "VICE FTA": {
-        "Tutor": "Ms. Resty",
-        "Kamis": "Ujian 08:40 Malam"
-    },
-    "Level 1": {
-        "Tutor": "Mr. Zul",
-        "Senin": "07:10 Malam",
-        "Selasa": "07:10 Malam",
-        "Rabu": "07:10 Malam"
+        "Rabu": "08:40 Malam",
+        "Kamis": "08:40 Malam"
     },
     "Level 1A": {
         "Tutor": "Mr. Dwi",
@@ -27,27 +17,48 @@
         "Selasa": "07:10 Malam",
         "Rabu": "07:10 Malam"
     },
-    "Level 2": {
-        "Tutor": "Ms. Tasya",
+    "Level 1B": {
+        "Tutor": "Ms. Yana",
         "Senin": "08:40 Malam",
         "Selasa": "08:40 Malam",
-        "Rabu": "08:40 Malam",
+        "Rabu": "08:40 Malam"
+    },
+    "Level 1C": {
+        "Tutor": "Mr. Dwi",
+        "Senin": "05:40 Sore",
+        "Selasa": "05:40 Sore",
         "Kamis": "07:10 Malam"
+    },
+    "Level 2": {
+        "Pengawas": "Ms. Tasya",
+        "Senin": "Ujian 08:40 Malam"
     },
     "Level 2A": {
         "Tutor": "Mr. Ardi",
-        "Senin": "08:40 Malam",
-        "Selasa": "08:40 Malam",
-        "Rabu": "08:40 Malam",
-        "Kamis": "07:10 Malam"
+        "Senin": "05:40 Sore",
+        "Selasa": "05:40 Sore",
+        "Rabu": "05:40 Sore",
+        "Kamis": "08:40 Malam"
     },
     "Level 3A": {
         "Tutor": "Mr. Zul",
-        "Senin": "08:40 Malam",
-        "Rabu": "08:40 Malam",
+        "Senin": "05:40 Sore",
+        "Selasa": "05:40 Sore",
         "Kamis": "07:10 Malam"
     },
     "Level 3B": {
+        "Tutor": "Mr. Agil",
+        "Senin": "08:40 Malam",
+        "Selasa": "08:40 Malam",
+        "Rabu": "08:40 Malam"
+    },
+    "Level 3C": {
+        "Tutor": "Mr. Zul",
+        "Senin": "07:10 Malam",
+        "Selasa": "07:10 Malam",
+        "Rabu": "07:10 Malam"
+    },
+    "Level 3D": {
         "Tutor": "Mr. Agil",
         "Senin": "07:10 Malam",
         "Selasa": "07:10 Malam",

@@ -1,91 +1,73 @@
 {
-    "": {
+    "LEVEL 1": {
         "Kode": "456873",
-        "PassingGrade": 85,
+        "PassingGrade": 80,
         "Hasil": [
             {
-                "Nama": "NUR ELISA PUTRI",
-                "Nilai": 94,
-                "Kelas": "NW 16",
+                "Nama": "SUL THIA ABDULLAH",
+                "Nilai": 86,
+                "Kelas": "LEVEL 1",
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "SUKMAWATI M. HI. UMAR",
-                "Nilai": 94,
-                "Kelas": "NW 16",
+                "Nama": "MAURA AMALA BILQISA",
+                "Nilai": 83,
+                "Kelas": "LEVEL 1",
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "IMELDA SAPUTRY DJALIL",
-                "Nilai": 89,
-                "Kelas": "NW 16",
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "HERAWANA",
-                "Nilai": 91,
-                "Kelas": "NW 16",
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "MIFTAH AHMAD",
+                "Nama": "MERRIZCA MAYURIE",
                 "Nilai": 90,
-                "Kelas": "NW 16",
+                "Kelas": "LEVEL 1",
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "MEYDA SHAFIRAH",
-                "Nilai": 85,
-                "Kelas": "NW 16",
+                "Nama": "NUR AFIFAH FAUJI",
+                "Nilai": 87,
+                "Kelas": "LEVEL 1",
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "WIDYA ZHAFIRAH S. ABUBAKAR",
-                "Nilai": 99,
-                "Kelas": "NW 17",
+                "Nama": "INDAYANI AFRISAL",
+                "Nilai": 82,
+                "Kelas": "LEVEL 1",
+                "Keterangan": "LULUS"
+            }
+        ]
+    },
+    "VICE FTA": {
+        "Kode": "456731",
+        "PassingGrade": 60,
+        "Hasil": [
+            {
+                "Nama": "ALGAZALI LANONGBUKA",
+                "Nilai": 98,
+                "Kelas": "VICE FTA",
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "ALIYAH TASYA ASHIFAH",
-                "Nilai": 94,
-                "Kelas": "NW 17",
+                "Nama": "JOVIONA LOVYTHA",
+                "Nilai": 93,
+                "Kelas": "VICE FTA",
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "APRIYANTI TAUDA",
-                "Nilai": 95,
-                "Kelas": "NW 17",
+                "Nama": "SRI ANDIRI ABDUL KADWIN",
+                "Nilai": 75,
+                "Kelas": "VICE FTA",
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "SALSABILAH GAILA QUR'ANI",
-                "Nilai": 96,
-                "Kelas": "NW 17",
+                "Nama": "ZAHIRUL UBAID MERADJI",
+                "Nilai": 61,
+                "Kelas": "VICE FTA",
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "GITA AYU LESTARI RAKIM",
-                "Nilai": 94,
-                "Kelas": "NW 17",
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "MOCHTAR NAUFAL PUTRA MUDAFFAR SAMADI",
-                "Nilai": 90,
-                "Kelas": "NW 17",
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "SITI NURAYU",
-                "Nilai": 92,
-                "Kelas": "NW 17",
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "JULFISKA USMAN",
-                "Nilai": 88,
-                "Kelas": "NW 17",
-                "Keterangan": "LULUS"
+                "Nama": "IBNU ARZZIL K. BAYAN",
+                "Nilai": 41,
+                "Kelas": "VICE FTA",
+                "Keterangan": "TIDAK LULUS"
             }
         ]
     }

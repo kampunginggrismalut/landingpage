@@ -7,9 +7,7 @@
     },
     "VICE NW": {
         "Tutor": "Ms. Tita",
-        "Selasa": "08:40 Malam",
-        "Rabu": "08:40 Malam",
-        "Kamis": "08:40 Malam"
+        "Kamis": "UJIAN 07:10 Malam"
     },
     "Level 1A": {
         "Tutor": "Mr. Dwi",
@@ -26,21 +24,21 @@
     "Level 1C": {
         "Tutor": "Ms. Nusaf",
         "Senin": "05:40 Sore",
-        "Rabu": "05:40 Sore",
-        "Kamis": "07:10 Malam"
+        "Selasa": "05:40 Sore",
+        "Rabu": "05:40 Sore"
     },
     "Level 2A": {
         "Tutor": "Mr. Ardi",
-        "Senin": "05:40 Sore",
-        "Selasa": "05:40 Sore",
-        "Rabu": "05:40 Sore",
-        "Kamis": "08:40 Malam"
+        "Senin": "07:10 Malam",
+        "Selasa": "07:10 Malam",
+        "Rabu": "07:10 Malam",
+        "Kamis": "07:10 Malam"
     },
     "Level 3A": {
         "Tutor": "Mr. Zul",
         "Senin": "05:40 Sore",
         "Selasa": "05:40 Sore",
-        "Kamis": "07:10 Malam"
+        "Rabu": "05:40 Sore"
     },
     "Level 3B": {
         "Tutor": "Mr. Agil",
@@ -50,9 +48,9 @@
     },
     "Level 3C": {
         "Tutor": "Mr. Zul",
-        "Senin": "07:10 Malam",
-        "Selasa": "07:10 Malam",
-        "Rabu": "07:10 Malam"
+        "Senin": "08:40 Malam",
+        "Selasa": "08:40 Malam",
+        "Rabu": "08:40 Malam"
     },
     "Level 3D": {
         "Tutor": "Mr. Agil",

@@ -1,65 +1,46 @@
 {
     "Kelas SD (Mayor 1, Mayor 2, dan Mayor 3)": {
         "Tutor": "Ms. Nuy, Ms. Cica, dan Ms. Tita",
-        "Selasa": "04:45 Sore",
-        "Kamis": "04:45 Sore",
-        "Sabtu": "04:45 Sore"
+        "Status": "OFF"
     },
     "VICE NW": {
         "Tutor": "Ms. Tita",
-        "Kamis": "UJIAN 07:10 Malam"
+        "Status": "OFF"
     },
     "Level 1A": {
         "Tutor": "Mr. Dwi",
-        "Senin": "07:10 Malam",
-        "Selasa": "07:10 Malam",
-        "Rabu": "07:10 Malam"
+        "Status": "OFF"
     },
     "Level 1B": {
         "Tutor": "Mr. Dwi",
-        "Senin": "08:40 Malam",
-        "Selasa": "08:40 Malam",
-        "Rabu": "08:40 Malam"
+        "Status": "OFF"
     },
     "Level 1C": {
         "Tutor": "Ms. Nusaf",
-        "Senin": "05:40 Sore",
-        "Rabu": "05:40 Sore",
-        "Kamis": "07:10 Malam"
+        "Status": "OFF"
     },
     "Level 2A": {
         "Tutor": "Mr. Ardi",
-        "Senin": "07:10 Malam",
-        "Selasa": "07:10 Malam",
-        "Rabu": "07:10 Malam",
-        "Kamis": "07:10 Malam"
+        "Status": "OFF"
     },
     "Level 3A": {
         "Tutor": "Mr. Zul",
-        "Senin": "05:40 Sore",
-        "Selasa": "05:40 Sore",
-        "Rabu": "05:40 Sore"
+        "Status": "OFF"
     },
     "Level 3B": {
         "Tutor": "Mr. Agil",
-        "Senin": "08:40 Malam",
-        "Selasa": "08:40 Malam",
-        "Rabu": "08:40 Malam"
+        "Status": "OFF"
     },
     "Level 3C": {
         "Tutor": "Mr. Zul",
-        "Senin": "08:40 Malam",
-        "Selasa": "08:40 Malam",
-        "Rabu": "08:40 Malam"
+        "Status": "OFF"
     },
     "Level 3D": {
         "Tutor": "Mr. Agil",
-        "Senin": "07:10 Malam",
-        "Selasa": "07:10 Malam",
-        "Rabu": "07:10 Malam"
+        "Status": "OFF"
     },
     "Level 4": {
         "Tutor": "Sir Ipox",
-        "Senin 06 April 2026": ""
+        "Status": "OFF"
     }
 }

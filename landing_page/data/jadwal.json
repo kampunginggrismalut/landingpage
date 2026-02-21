@@ -1,65 +1,68 @@
 {
     "Kelas SD (Mayor 1, Mayor 2, dan Mayor 3)": {
         "Tutor": "Ms. Nuy, Ms. Cica, dan Ms. Tita",
-        "Selasa": "04:45 Sore",
-        "Kamis": "04:45 Sore",
-        "Sabtu": "04:45 Sore"
+        "Selasa": "04:30 Sore",
+        "Kamis": "04:30 Sore",
+        "Sabtu": "03:00 Sore"
     },
-    "VICE NW": {
+    "Vice 2": {
         "Tutor": "Ms. Tita",
-        "Kamis": "UJIAN 07:10 Malam"
+        "Selasa": "04:30 Sore",
+        "Kamis": "04:30 Sore",
+        "Jumat": "04:30 Sore"
+    },
+    "Vice 3": {
+        "Tutor": "Ms. Resty",
+        "Selasa": "04:30 Sore",
+        "Kamis": "03:00 Sore",
+        "Jumat": "03:00 Sore"
     },
     "Level 1A": {
-        "Tutor": "Mr. Dwi",
-        "Senin": "07:10 Malam",
-        "Selasa": "07:10 Malam",
-        "Rabu": "07:10 Malam"
+        "Pengawas": "Mr. Dwi",
+        "Jumat": "03:00 Sore, Ujian"
     },
     "Level 1B": {
-        "Tutor": "Mr. Dwi",
-        "Senin": "08:40 Malam",
-        "Selasa": "08:40 Malam",
-        "Rabu": "08:40 Malam"
+        "Tutor": "Ms. Nusaf",
+        "Senin": "04:30 Sore",
+        "Selasa": "03:00 Sore",
+        "Rabu": "04:30 Sore"
     },
     "Level 1C": {
-        "Tutor": "Ms. Nusaf",
-        "Senin": "05:40 Sore",
-        "Rabu": "05:40 Sore",
-        "Kamis": "07:10 Malam"
+        "Tutor": "Ms. Resty",
+        "Senin": "03:00 Sore",
+        "Rabu": "03:00 Sore",
+        "Jumat": "04:30 Sore"
     },
     "Level 2A": {
         "Tutor": "Mr. Ardi",
-        "Senin": "07:10 Malam",
-        "Selasa": "07:10 Malam",
-        "Rabu": "07:10 Malam",
-        "Kamis": "07:10 Malam"
+        "Senin": "03:00 Sore",
+        "Selasa": "03:00 Sore",
+        "Jumat": "04:30 Sore, Ujian"
     },
     "Level 3A": {
-        "Tutor": "Mr. Zul",
-        "Senin": "05:40 Sore",
-        "Selasa": "05:40 Sore",
-        "Rabu": "05:40 Sore"
+        "Pengawas": "Mr. Zul",
+        "Jumat": "03:00 Sore, Ujian"
     },
     "Level 3B": {
         "Tutor": "Mr. Agil",
-        "Senin": "08:40 Malam",
-        "Selasa": "08:40 Malam",
-        "Rabu": "08:40 Malam"
+        "Jumat": "04:30 Sore, Ujian"
     },
     "Level 3C": {
         "Tutor": "Mr. Zul",
-        "Senin": "08:40 Malam",
-        "Selasa": "08:40 Malam",
-        "Rabu": "08:40 Malam"
+        "Senin": "03:00 Sore",
+        "Rabu": "04:30 Sore",
+        "Kamis": "03:00 Sore"
     },
     "Level 3D": {
         "Tutor": "Mr. Agil",
-        "Senin": "07:10 Malam",
-        "Selasa": "07:10 Malam",
-        "Rabu": "07:10 Malam"
+        "Senin": "04:30 Sore",
+        "Rabu": "03:00 Sore",
+        "Kamis": "03:00 Sore"
     },
     "Level 4": {
         "Tutor": "Sir Ipox",
-        "Senin 06 April 2026": ""
+        "Senin": "04:30 Sore",
+        "Selasa": "03:00 Sore",
+        "Jumat": "03:00 Sore"
     }
 }

@@ -1,79 +1,85 @@
 {
-    "LEVEL 1": {
+    "LEVEL 3": {
         "Kode": "456873",
-        "PassingGrade": 80,
+        "PassingGrade": 85,
         "Hasil": [
             {
-                "Nama": "SUL THIA ABDULLAH",
-                "Nilai": 86,
-                "Kelas": "LEVEL 1",
+                "Nama": "ULMA DWI LESTARI",
+                "Nilai": 74,
+                "Kelas": "LEVEL 3A",
+                "Keterangan": "TIDAK LULUS"
+            },
+            {
+                "Nama": "MUDASIR H. SIDIK",
+                "Nilai": 78,
+                "Kelas": "LEVEL 3A",
+                "Keterangan": "TIDAK LULUS"
+            },
+            {
+                "Nama": "SALSABILA SUKARDI",
+                "Nilai": 71,
+                "Kelas": "LEVEL 3A",
+                "Keterangan": "TIDAK LULUS"
+            },
+            {
+                "Nama": "KHAIRUNNISA SOANGARE",
+                "Nilai": 85,
+                "Kelas": "LEVEL 3A",
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "MAURA AMALA BILQISA",
-                "Nilai": 83,
-                "Kelas": "LEVEL 1",
-                "Keterangan": "LULUS"
+                "Nama": "FAUZI ADI",
+                "Nilai": 80,
+                "Kelas": "LEVEL 3A",
+                "Keterangan": "TIDAK LULUS"
             },
             {
-                "Nama": "MERRIZCA MAYURIE",
-                "Nilai": 90,
-                "Kelas": "LEVEL 1",
-                "Keterangan": "LULUS"
+                "Nama": "AGNI TRIVANI SAURANGI",
+                "Nilai": 78,
+                "Kelas": "LEVEL 3B",
+                "Keterangan": "TIDAK LULUS"
             },
             {
-                "Nama": "NUR AFIFAH FAUJI",
-                "Nilai": 87,
-                "Kelas": "LEVEL 1",
-                "Keterangan": "LULUS"
+                "Nama": "ALFIARA DETIRTA GAILEA",
+                "Nilai": 77,
+                "Kelas": "LEVEL 3B",
+                "Keterangan": "TIDAK LULUS"
             },
             {
-                "Nama": "INDAYANI AFRISAL",
-                "Nilai": 82,
-                "Kelas": "LEVEL 1",
-                "Keterangan": "LULUS"
-            }
-        ]
-    },
-    "VICE NW": {
-        "Kode": "456731",
-        "PassingGrade": 75,
-        "Hasil": [
-            {
-                "Nama": "AYUUNDA SYAMSA",
-                "Nilai": 88,
-                "Kelas": "VICE NW",
-                "Keterangan": "LULUS"
+                "Nama": "DEVIKA NINDI UMASUGI",
+                "Nilai": 70,
+                "Kelas": "LEVEL 3B",
+                "Keterangan": "TIDAK LULUS"
             },
             {
-                "Nama": "DHFITRY MERDEKA PUTRI SIDIK",
-                "Nilai": 86,
-                "Kelas": "VICE NW",
-                "Keterangan": "LULUS"
+                "Nama": "HILYAH RAFIQAH HAFID",
+                "Nilai": 69,
+                "Kelas": "LEVEL 3B",
+                "Keterangan": "TIDAK LULUS"
             },
             {
-                "Nama": "KHANSA ANINDITA KHAIRINNISWA",
-                "Nilai": 84,
-                "Kelas": "VICE NW",
-                "Keterangan": "LULUS"
+                "Nama": "M. REZA LASAMA",
+                "Nilai": 67,
+                "Kelas": "LEVEL 3B",
+                "Keterangan": "TIDAK LULUS"
             },
             {
-                "Nama": "ADINDA GENDIS ASAKARUNIA TENYIS",
-                "Nilai": 75,
-                "Kelas": "VICE NW",
-                "Keterangan": "LULUS"
+                "Nama": "M. RIFKY ALZYAHNUDDIN",
+                "Nilai": 72,
+                "Kelas": "LEVEL 3B",
+                "Keterangan": "TIDAK LULUS"
             },
             {
-                "Nama": "FEBRI MAULANI",
-                "Nilai": 75,
-                "Kelas": "VICE NW",
-                "Keterangan": "LULUS"
+                "Nama": "NURSINA UMAGAPI",
+                "Nilai": 71,
+                "Kelas": "LEVEL 3B",
+                "Keterangan": "TIDAK LULUS"
             },
             {
-                "Nama": "PUTRI SAFIRA ZAMBRUD",
-                "Nilai": 75,
-                "Kelas": "VICE NW",
-                "Keterangan": "LULUS"
+                "Nama": "RIZKIKA PUTRI FIRJIANA",
+                "Nilai": 71,
+                "Kelas": "LEVEL 3B",
+                "Keterangan": "TIDAK LULUS"
             }
         ]
     }

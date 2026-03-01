@@ -82,5 +82,53 @@
                 "Keterangan": "TIDAK LULUS"
             }
         ]
+    },
+    "LEVEL 2A": {
+        "Kode": "112244",
+        "PassingGrade": 85,
+        "Hasil": [
+            {
+                "Nama": "MUHAMMAD FARHAN DENI",
+                "Nilai": 92,
+                "Kelas": "LEVEL 2A",
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "ALIKA KESYA MAHENDRAT",
+                "Nilai": 92,
+                "Kelas": "LEVEL 2A",
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "AHMAD SEDDIQ KABAU",
+                "Nilai": 93,
+                "Kelas": "LEVEL 2A",
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "SITI YULIANA PUTRI",
+                "Nilai": 88,
+                "Kelas": "LEVEL 2A",
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "MOH. SATRIA S. HAYA",
+                "Nilai": 89,
+                "Kelas": "LEVEL 2A",
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "MEISYA WINDA ZULAYKA",
+                "Nilai": 94,
+                "Kelas": "LEVEL 2A",
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "HUMAIRATULHIJJAH",
+                "Nilai": 77,
+                "Kelas": "LEVEL 2A",
+                "Keterangan": "TIDAK LULUS"
+            }
+        ]
     }
 }

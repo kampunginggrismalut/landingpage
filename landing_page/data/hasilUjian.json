@@ -1,36 +1,36 @@
 {
     "LEVEL 3": {
-        "Kode": "456873",
+        "Kode": "516879",
         "PassingGrade": 85,
         "Hasil": [
             {
-                "Nama": "ULMA DWI LESTARI",
-                "Nilai": 74,
-                "Kelas": "LEVEL 3A",
+                "Nama": "SITI NURAYU",
+                "Nilai": 65,
+                "Kelas": "LEVEL 3C",
                 "Keterangan": "TIDAK LULUS"
             },
             {
                 "Nama": "MUDASIR H. SIDIK",
                 "Nilai": 78,
-                "Kelas": "LEVEL 3A",
+                "Kelas": "LEVEL 3C",
                 "Keterangan": "TIDAK LULUS"
             },
             {
                 "Nama": "SALSABILA SUKARDI",
                 "Nilai": 71,
-                "Kelas": "LEVEL 3A",
+                "Kelas": "LEVEL 3C",
                 "Keterangan": "TIDAK LULUS"
             },
             {
                 "Nama": "KHAIRUNNISA SOANGARE",
                 "Nilai": 85,
-                "Kelas": "LEVEL 3A",
+                "Kelas": "LEVEL 3C",
                 "Keterangan": "LULUS"
             },
             {
                 "Nama": "FAUZI ADI",
                 "Nilai": 85,
-                "Kelas": "LEVEL 3A",
+                "Kelas": "LEVEL 3C",
                 "Keterangan": "LULUS"
             },
             {

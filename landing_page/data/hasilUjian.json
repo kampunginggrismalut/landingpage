@@ -10,124 +10,88 @@
                 "Keterangan": "TIDAK LULUS"
             },
             {
-                "Nama": "MUDASIR H. SIDIK",
-                "Nilai": 85,
-                "Kelas": "LEVEL 3A",
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "SALSABILA SUKARDI",
-                "Nilai": 71,
-                "Kelas": "LEVEL 3C",
-                "Keterangan": "TIDAK LULUS"
-            },
-            {
-                "Nama": "KHAIRUNNISA SOANGARE",
-                "Nilai": 85,
+                "Nama": "APRIANTI TAUDA",
+                "Nilai": 87,
                 "Kelas": "LEVEL 3C",
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "FAUZI ADI",
-                "Nilai": 85,
-                "Kelas": "LEVEL 3C",
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "AGNI TRIVANI SAURANGI",
+                "Nama": "SALSABILA GAILA QUR'ANI",
                 "Nilai": 80,
-                "Kelas": "LEVEL 3B",
+                "Kelas": "LEVEL 3C",
                 "Keterangan": "TIDAK LULUS"
             },
             {
-                "Nama": "ALFIARA DETIRTA GAILEA",
-                "Nilai": 85,
-                "Kelas": "LEVEL 3B",
+                "Nama": "GITA AYU LESTARI",
+                "Nilai": 71,
+                "Kelas": "LEVEL 3C",
+                "Keterangan": "TIDAK LULUS"
+            },
+            {
+                "Nama": "WIDYA ZHAFIRAH S. ABUBAKAR",
+                "Nilai": 87,
+                "Kelas": "LEVEL 3C",
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "DEVIKA NINDI UMASUGI",
-                "Nilai": 70,
-                "Kelas": "LEVEL 3B",
-                "Keterangan": "TIDAK LULUS"
-            },
-            {
-                "Nama": "HILYAH RAFIQAH HAFID",
+                "Nama": "ARIEL AL FAHRIZIY M. KUYLO",
                 "Nilai": 69,
-                "Kelas": "LEVEL 3B",
+                "Kelas": "LEVEL 3C",
                 "Keterangan": "TIDAK LULUS"
             },
             {
-                "Nama": "M. REZA LASAMA",
-                "Nilai": 67,
-                "Kelas": "LEVEL 3B",
+                "Nama": "JULFISKA USMAN",
+                "Nilai": 69,
+                "Kelas": "LEVEL 3C",
                 "Keterangan": "TIDAK LULUS"
             },
             {
-                "Nama": "M. RIFKY ALZYAHNUDDIN",
-                "Nilai": 85,
-                "Kelas": "LEVEL 3B",
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "NURSINA UMAGAPI",
-                "Nilai": 71,
-                "Kelas": "LEVEL 3B",
-                "Keterangan": "TIDAK LULUS"
-            },
-            {
-                "Nama": "RIZKIKA PUTRI FIRJIANA",
-                "Nilai": 71,
-                "Kelas": "LEVEL 3B",
+                "Nama": "ALIYAH TASYA ASHIFAH",
+                "Nilai": 79,
+                "Kelas": "LEVEL 3C",
                 "Keterangan": "TIDAK LULUS"
             }
         ]
     },
-    "LEVEL 2A": {
-        "Kode": "112244",
-        "PassingGrade": 85,
+    "LEVEL 1C": {
+        "Kode": "456791",
+        "PassingGrade": 75,
         "Hasil": [
             {
-                "Nama": "MUHAMMAD FARHAN DENI",
-                "Nilai": 92,
-                "Kelas": "LEVEL 2A",
+                "Nama": "SYAIDIANTARA KOLONG",
+                "Nilai": 83,
+                "Kelas": "LEVEL 1C",
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "ALIKA KESYA MAHENDRAT",
-                "Nilai": 92,
-                "Kelas": "LEVEL 2A",
+                "Nama": "AFIQA KESYA",
+                "Nilai": 85,
+                "Kelas": "LEVEL 1C",
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "AHMAD SEDDIQ KABAU",
-                "Nilai": 93,
-                "Kelas": "LEVEL 2A",
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "SITI YULIANA PUTRI",
+                "Nama": "EKA SYAFITRI S.",
                 "Nilai": 88,
-                "Kelas": "LEVEL 2A",
+                "Kelas": "LEVEL 1C",
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "MOH. SATRIA S. HAYA",
+                "Nama": "ANDINI PUTRI",
+                "Nilai": 95,
+                "Kelas": "LEVEL 1C",
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "NAURAH RAYYANI",
                 "Nilai": 89,
-                "Kelas": "LEVEL 2A",
+                "Kelas": "LEVEL 1C",
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "MEISYA WINDA ZULAYKA",
-                "Nilai": 94,
-                "Kelas": "LEVEL 2A",
+                "Nama": "NURILA AZZARA S.",
+                "Nilai": 92,
+                "Kelas": "LEVEL 1C",
                 "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "HUMAIRATULHIJJAH",
-                "Nilai": 77,
-                "Kelas": "LEVEL 2A",
-                "Keterangan": "TIDAK LULUS"
             }
         ]
     }

@@ -50,7 +50,43 @@
                 "Nilai": 79,
                 "Kelas": "LEVEL 3C",
                 "Keterangan": "TIDAK LULUS"
-            }
+            },
+            {
+                "Nama": "HERAWANA",
+                "Nilai": 62,
+                "Kelas": "LEVEL 3D",
+                "Keterangan": "TIDAK LULUS"
+            },
+            {
+                "Nama": "IMELDA SAPUTRY DJALI",
+                "Nilai": 63,
+                "Kelas": "LEVEL 3D",
+                "Keterangan": "TIDAK LULUS"
+            },
+            {
+                "Nama": "MIFTAH AHMAD",
+                "Nilai": 85,
+                "Kelas": "LEVEL 3D",
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "SUKMAWATI M. H. UMAR",
+                "Nilai": 69,
+                "Kelas": "LEVEL 3D",
+                "Keterangan": "TIDAK LULUS"
+            },
+            {
+                "Nama": "MEYDA SHAFIRA",
+                "Nilai": 64,
+                "Kelas": "LEVEL 3D",
+                "Keterangan": "TIDAK LULUS"
+            },
+            {
+                "Nama": "NUR ELISA PUTRI",
+                "Nilai": 85,
+                "Kelas": "LEVEL 3D",
+                "Keterangan": "LULUS"
+            },
         ]
     },
     "LEVEL 1C": {

@@ -118,9 +118,45 @@
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "NURILA AZZARA S.",
-                "Nilai": 92,
-                "Kelas": "LEVEL 1C",
+                "Nama": "WIRDA KARIM",
+                "Nilai": 91,
+                "Kelas": "LEVEL 1B",
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "HARLINA MASRI",
+                "Nilai": 95,
+                "Kelas": "LEVEL 1B",
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "EVANGJELIKA DJIGUNA",
+                "Nilai": 83,
+                "Kelas": "LEVEL 1B",
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "AURA KHUMAIRA",
+                "Nilai": 90,
+                "Kelas": "LEVEL 1B",
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "SITI SUSANTI",
+                "Nilai": 86,
+                "Kelas": "LEVEL 1B",
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "NURLAILA SALEH",
+                "Nilai": 89,
+                "Kelas": "LEVEL 1B",
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "FATHIHA RIZKA",
+                "Nilai": 87,
+                "Kelas": "LEVEL 1B",
                 "Keterangan": "LULUS"
             }
         ]

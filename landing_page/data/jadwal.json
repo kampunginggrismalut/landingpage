@@ -1,52 +1,58 @@
 {
     "Kelas SD (Mayor 1, Mayor 2, dan Mayor 3)": {
-        "Tutor": "Ms. Nuy, Ms. Cica, dan Ms. Tita",
-        "Selasa": "04:30 Sore",
-        "Kamis": "04:30 Sore",
-        "Sabtu": "03:00 Sore"
+        "Tutor": "Ms. Tasya, Ms. Cica, dan Ms. Tita",
+        "Senin": "07:10 Malam",
+        "Rabu": "07:10 Malam",
+        "Jumat": "05:00 Sore"
     },
-    "Vice 2": {
+    "Vice BA": {
         "Tutor": "Ms. Tita",
-        "Silakan Cek di Grup Whatsapp": ""
+        "Senin": "08:40 Malam",
+        "Selasa": "08:40 Malam",
+        "Jumat": "08:40 Malam"
     },
-    "Vice 3": {
+    "Vice AB": {
         "Tutor": "Ms. Resty",
-        "Silakan Cek di Grup Whatsapp": ""
+        "Senin": "08:40 Malam",
+        "Selasa": "08:40 Malam",
+        "Jumat": "08:40 Malam"
     },
-    "Level 1A": {
-        "Pengawas": "Mr. Dwi",
-        "Silakan Cek di Grup Whatsapp": ""
+    "Level 2B": {
+        "Tutor": "Ms. Elisa",
+        "Selasa": "07:10 Malam",
+        "Rabu": "08:40 Malam",
+        "Kamis": "07:10 Malam",
+        "Jumat": "07:10 Malam"
     },
-    "Level 1B": {
-        "Tutor": "Ms. Nusaf",
-        "Silakan Cek di Grup Whatsapp": ""
+    "Level 2C": {
+        "Tutor": "Ms. Aliyah",
+        "Selasa": "07:10 Malam",
+        "Rabu": "08:40 Malam",
+        "Kamis": "08:40 Malam",
+        "Jumat": "07:10 Malam"
     },
-    "Level 1C": {
-        "Tutor": "Ms. Resty",
-        "Silakan Cek di Grup Whatsapp": ""
-    },
-    "Level 2A": {
-        "Tutor": "Mr. Ardi",
-        "Silakan Cek di Grup Whatsapp": ""
-    },
-    "Level 3A": {
-        "Pengawas": "Mr. Zul",
-        "Silakan Cek di Grup Whatsapp": ""
-    },
-    "Level 3B": {
-        "Tutor": "Mr. Agil",
-        "Silakan Cek di Grup Whatsapp": ""
-    },
-    "Level 3C": {
+    "Level 3E": {
         "Tutor": "Mr. Zul",
-        "Silakan Cek di Grup Whatsapp": ""
+        "Selasa": "07:10 Malam",
+        "Kamis": "08:40 Malam",
+        "Jumat": "07:10 Malam"
     },
-    "Level 3D": {
+    "Level 3F": {
         "Tutor": "Mr. Agil",
-        "Silakan Cek di Grup Whatsapp": ""
+        "Selasa": "08:40 Malam",
+        "Kamis": "07:10 Malam",
+        "Jumat": "08:40 Malam"
     },
-    "Level 4": {
+    "Level 4A": {
         "Tutor": "Sir Ipox",
-        "Silakan Cek di Grup Whatsapp": ""
+        "Senin": "05:00 Sore",
+        "Kamis": "08:40 Malam"
+    },
+    "Level 4B": {
+        "Tutor": "Sir Ipox",
+        "Selasa": "05:00 Sore",
+        "Rabu": "05:00 Sore",
+        "Kamis": "05:00 Sore",
+        "Jumat": "05:00 Sore"
     }
 }

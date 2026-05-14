@@ -1,162 +1,78 @@
 {
     "": {
         "Kode": "516879",
-        "PassingGrade": "85 (LEVEL 3) | 75 (LEVEL 1)",
+        "PassingGrade": "75 (LEVEL 1) | 65 (VICE AB)",
         "Hasil": [
             {
-                "Nama": "SITI NURAYU",
-                "Nilai": 65,
-                "Kelas": "LEVEL 3C",
-                "Keterangan": "TIDAK LULUS"
-            },
-            {
-                "Nama": "APRIANTI TAUDA",
-                "Nilai": 87,
-                "Kelas": "LEVEL 3C",
+                "Nama": "KHANSA J. S. NAYA",
+                "Nilai": 76,
+                "Kelas": "LEVEL 1",
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "SALSABILA GAILA QUR'ANI",
-                "Nilai": 80,
-                "Kelas": "LEVEL 3C",
-                "Keterangan": "TIDAK LULUS"
-            },
-            {
-                "Nama": "GITA AYU LESTARI",
-                "Nilai": 71,
-                "Kelas": "LEVEL 3C",
-                "Keterangan": "TIDAK LULUS"
-            },
-            {
-                "Nama": "WIDYA ZHAFIRAH S. ABUBAKAR",
-                "Nilai": 87,
-                "Kelas": "LEVEL 3C",
+                "Nama": "SARINITA ANDO",
+                "Nilai": 76,
+                "Kelas": "LEVEL 1",
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "ARIEL AL FAHRIZIY M. KUYLO",
-                "Nilai": 69,
-                "Kelas": "LEVEL 3C",
-                "Keterangan": "TIDAK LULUS"
-            },
-            {
-                "Nama": "JULFISKA USMAN",
-                "Nilai": 69,
-                "Kelas": "LEVEL 3C",
-                "Keterangan": "TIDAK LULUS"
-            },
-            {
-                "Nama": "ALIYAH TASYA ASHIFAH",
-                "Nilai": 79,
-                "Kelas": "LEVEL 3C",
-                "Keterangan": "TIDAK LULUS"
-            },
-            {
-                "Nama": "HERAWANA",
-                "Nilai": 62,
-                "Kelas": "LEVEL 3D",
-                "Keterangan": "TIDAK LULUS"
-            },
-            {
-                "Nama": "IMELDA SAPUTRY DJALI",
-                "Nilai": 63,
-                "Kelas": "LEVEL 3D",
-                "Keterangan": "TIDAK LULUS"
-            },
-            {
-                "Nama": "MIFTAH AHMAD",
-                "Nilai": 85,
-                "Kelas": "LEVEL 3D",
+                "Nama": "MUTIA SALIM",
+                "Nilai": 92,
+                "Kelas": "LEVEL 1",
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "SUKMAWATI M. H. UMAR",
-                "Nilai": 69,
-                "Kelas": "LEVEL 3D",
-                "Keterangan": "TIDAK LULUS"
-            },
-            {
-                "Nama": "MEYDA SHAFIRA",
-                "Nilai": 64,
-                "Kelas": "LEVEL 3D",
-                "Keterangan": "TIDAK LULUS"
-            },
-            {
-                "Nama": "NUR ELISA PUTRI",
-                "Nilai": 85,
-                "Kelas": "LEVEL 3D",
+                "Nama": "KYLA PUTRI NURSYABANI",
+                "Nilai": 94,
+                "Kelas": "LEVEL 1",
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "SYAIDIANTARA KOLONG",
-                "Nilai": 83,
-                "Kelas": "LEVEL 1C",
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "AFIQA KESYA",
-                "Nilai": 85,
-                "Kelas": "LEVEL 1C",
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "EKA SYAFITRI S.",
-                "Nilai": 88,
-                "Kelas": "LEVEL 1C",
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "ANDINI PUTRI",
-                "Nilai": 95,
-                "Kelas": "LEVEL 1C",
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "NAURAH RAYYANI",
-                "Nilai": 89,
-                "Kelas": "LEVEL 1C",
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "WIRDA KARIM",
-                "Nilai": 91,
-                "Kelas": "LEVEL 1B",
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "HARLINA MASRI",
-                "Nilai": 95,
-                "Kelas": "LEVEL 1B",
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "EVANGJELIKA DJIGUNA",
-                "Nilai": 83,
-                "Kelas": "LEVEL 1B",
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "AURA KHUMAIRA",
+                "Nama": "KHUSNA AFIF SALSABILA",
                 "Nilai": 90,
-                "Kelas": "LEVEL 1B",
+                "Kelas": "LEVEL 1",
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "SITI SUSANTI",
+                "Nama": "SALSA SAHAYU JEPY",
                 "Nilai": 86,
-                "Kelas": "LEVEL 1B",
+                "Kelas": "LEVEL 1",
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "NURLAILA SALEH",
+                "Nama": "NUZLIYATI H. UMAR",
+                "Nilai": 77,
+                "Kelas": "LEVEL 1",
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "KHANSA ANINDITA KHAIRINNISWA",
                 "Nilai": 89,
-                "Kelas": "LEVEL 1B",
+                "Kelas": "VICE AB",
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "FATHIHA RIZKA",
+                "Nama": "ZAHIRUL UBAID MERADJI",
+                "Nilai": 82,
+                "Kelas": "VICE AB",
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "ALGAZALI LANONGBUKA",
                 "Nilai": 87,
-                "Kelas": "LEVEL 1B",
+                "Kelas": "VICE AB",
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "DHFITRY MERDEKA PUTRI",
+                "Nilai": 81,
+                "Kelas": "VICE AB",
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "SRI ANDIRI ABDUL KATWIN",
+                "Nilai": 82,
+                "Kelas": "VICE AB",
                 "Keterangan": "LULUS"
             }
         ]

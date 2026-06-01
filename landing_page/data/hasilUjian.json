@@ -1,79 +1,47 @@
 {
-    "": {
+    "LEVEL 4A": {
         "Kode": "516879",
-        "PassingGrade": "75 (LEVEL 1) | 65 (VICE AB)",
+        "PassingGrade": "75",
         "Hasil": [
             {
-                "Nama": "KHANSA J. S. NAYA",
-                "Nilai": 76,
-                "Kelas": "LEVEL 1",
+                "Nama": "DWI HASRIADI",
+                "Grammar": 83,
+                "CohesiveCoherence": 79,
+                "SubstanceSentence": 67,
+                "Total": 76.33,
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "SARINITA ANDO",
-                "Nilai": 76,
-                "Kelas": "LEVEL 1",
-                "Keterangan": "LULUS"
+                "Nama": "TITA MEYFIRA",
+                "Grammar": 88,
+                "CohesiveCoherence": 64,
+                "SubstanceSentence": 68,
+                "Total": 73.33,
+                "Keterangan": "TIDAK LULUS"
             },
             {
-                "Nama": "MUTIA SALIM",
-                "Nilai": 92,
-                "Kelas": "LEVEL 1",
-                "Keterangan": "LULUS"
+                "Nama": "NURUL SAFITRI UMAFAGUR",
+                "Grammar": 69,
+                "CohesiveCoherence": 63,
+                "SubstanceSentence": 90,
+                "Total": 74,
+                "Keterangan": "TIDAK LULUS"
             },
             {
-                "Nama": "KYLA PUTRI NURSYABANI",
-                "Nilai": 94,
-                "Kelas": "LEVEL 1",
-                "Keterangan": "LULUS"
+                "Nama": "NISSYA JUMA DRAKEL",
+                "Grammar": 72,
+                "CohesiveCoherence": 75,
+                "SubstanceSentence": 69,
+                "Total": 72,
+                "Keterangan": "TIDAK LULUS"
             },
             {
-                "Nama": "KHUSNA AFIF SALSABILA",
-                "Nilai": 90,
-                "Kelas": "LEVEL 1",
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "SALSA SAHAYU JEPY",
-                "Nilai": 86,
-                "Kelas": "LEVEL 1",
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "NUZLIYATI H. UMAR",
-                "Nilai": 77,
-                "Kelas": "LEVEL 1",
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "KHANSA ANINDITA KHAIRINNISWA",
-                "Nilai": 89,
-                "Kelas": "VICE AB",
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "ZAHIRUL UBAID MERADJI",
-                "Nilai": 82,
-                "Kelas": "VICE AB",
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "ALGAZALI LANONGBUKA",
-                "Nilai": 87,
-                "Kelas": "VICE AB",
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "DHFITRY MERDEKA PUTRI",
-                "Nilai": 81,
-                "Kelas": "VICE AB",
-                "Keterangan": "LULUS"
-            },
-            {
-                "Nama": "SRI ANDIRI ABDUL KATWIN",
-                "Nilai": 82,
-                "Kelas": "VICE AB",
-                "Keterangan": "LULUS"
+                "Nama": "ANASTASYA DYAH AYU",
+                "Grammar": 68,
+                "CohesiveCoherence": 74,
+                "SubstanceSentence": 72,
+                "Total": 71.33,
+                "Keterangan": "TIDAK LULUS"
             }
         ]
     }

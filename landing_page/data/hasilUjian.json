@@ -4,44 +4,58 @@
         "PassingGrade": "75",
         "Hasil": [
             {
-                "Nama": "DWI HASRIADI",
-                "Grammar": 83,
-                "CohesiveCoherence": 79,
-                "SubstanceSentence": 67,
-                "Total": 76.33,
+                "Nama": "SITI AHDANIA BADIN",
+                "Kelas": "LEVEL 1B",
+                "NilaiAkhir": 81,
                 "Keterangan": "LULUS"
             },
             {
-                "Nama": "TITA MEYFIRA",
-                "Grammar": 88,
-                "CohesiveCoherence": 64,
-                "SubstanceSentence": 68,
-                "Total": 73.33,
-                "Keterangan": "TIDAK LULUS"
+                "Nama": "NADIA NAYSILLA",
+                "Kelas": "LEVEL 1B",
+                "NilaiAkhir": 84,
+                "Keterangan": "LULUS"
             },
             {
-                "Nama": "NURUL SAFITRI UMAFAGUR",
-                "Grammar": 69,
-                "CohesiveCoherence": 63,
-                "SubstanceSentence": 90,
-                "Total": 74,
-                "Keterangan": "TIDAK LULUS"
+                "Nama": "CAHYU A. KARIM",
+                "Kelas": "LEVEL 1B",
+                "NilaiAkhir": 75,
+                "Keterangan": "LULUS"
             },
             {
-                "Nama": "NISSYA JUMA DRAKEL",
-                "Grammar": 72,
-                "CohesiveCoherence": 75,
-                "SubstanceSentence": 69,
-                "Total": 72,
-                "Keterangan": "TIDAK LULUS"
+                "Nama": "NURUL FAHIRA",
+                "Kelas": "LEVEL 1B",
+                "NilaiAkhir": 86,
+                "Keterangan": "LULUS"
             },
             {
-                "Nama": "ANASTASYA DYAH AYU",
-                "Grammar": 68,
-                "CohesiveCoherence": 74,
-                "SubstanceSentence": 72,
-                "Total": 71.33,
-                "Keterangan": "TIDAK LULUS"
+                "Nama": "TALITA HADIZA SURYADI",
+                "Kelas": "LEVEL 1B",
+                "NilaiAkhir": 84,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "MEILINDA SRI MAYA IKBAL",
+                "Kelas": "LEVEL 1B",
+                "NilaiAkhir": 82,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "NUR AISYAH",
+                "Kelas": "LEVEL 1B",
+                "NilaiAkhir": 92,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "REFALINA BAHMID",
+                "Kelas": "LEVEL 1B",
+                "NilaiAkhir": 83,
+                "Keterangan": "LULUS"
+            },
+            {
+                "Nama": "HASMIDA",
+                "Kelas": "LEVEL 1B",
+                "NilaiAkhir": 77,
+                "Keterangan": "LULUS"
             }
         ]
     }

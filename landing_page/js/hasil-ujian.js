@@ -65,10 +65,8 @@ document.addEventListener("DOMContentLoaded", async () => {
                     hasilContent.innerHTML += `
           <tr>
             <td class="px-4 py-2 border text-left">${siswa.Nama}</td>
-            <td class="px-4 py-2 border text-left">${siswa.Grammar}</td>
-            <td class="px-4 py-2 border text-left">${siswa.CohesiveCoherence}</td>
-            <td class="px-4 py-2 border text-left">${siswa.SubstanceSentence}</td>
-            <td class="px-4 py-2 border text-left">${siswa.Total}</td>
+            <td class="px-4 py-2 border text-left">${siswa.Kelas}</td>
+            <td class="px-4 py-2 border text-left">${siswa.NilaiAkhir}</td>
             <td class="px-4 py-2 border text-left">${siswa.Keterangan}</td>
           </tr>`;
                 });
